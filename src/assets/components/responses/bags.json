@@ -1,0 +1,2853 @@
+{
+    "searchTerm": "",
+    "categoryName": "Bags",
+    "itemCount": 339,
+    "redirectUrl": "",
+    "products": [
+      {
+        "id": 205664424,
+        "name": "Pull&Bear cross body fanny pack in black",
+        "price": {
+          "current": {
+            "value": 19.46,
+            "text": "$19.46"
+          },
+          "previous": {
+            "value": 22.9,
+            "text": "$22.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205664425,
+        "brandName": "Pull&Bear",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133509566,
+        "productType": "Product",
+        "url": "pullbear/pullbear-cross-body-fanny-pack-in-black/prd/205664424?clr=black&colourWayId=205664425",
+        "imageUrl": "images.asos-media.com/products/pullbear-cross-body-fanny-pack-in-black/205664424-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/pullbear-cross-body-fanny-pack-in-black/205664424-2",
+          "images.asos-media.com/products/pullbear-cross-body-fanny-pack-in-black/205664424-3",
+          "images.asos-media.com/products/pullbear-cross-body-fanny-pack-in-black/205664424-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205360957,
+        "name": "ASOS DESIGN double strap rubberized backpack in black",
+        "price": {
+          "current": {
+            "value": 42.49,
+            "text": "$42.49"
+          },
+          "previous": {
+            "value": 49.99,
+            "text": "$49.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205360958,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132780764,
+        "productType": "Product",
+        "url": "asos-design/asos-design-double-strap-rubberized-backpack-in-black/prd/205360957?clr=black&colourWayId=205360958",
+        "imageUrl": "images.asos-media.com/products/asos-design-double-strap-rubberized-backpack-in-black/205360957-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-double-strap-rubberized-backpack-in-black/205360957-2",
+          "images.asos-media.com/products/asos-design-double-strap-rubberized-backpack-in-black/205360957-3",
+          "images.asos-media.com/products/asos-design-double-strap-rubberized-backpack-in-black/205360957-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205370032,
+        "name": "ASOS DESIGN faux leather wallet in silver",
+        "price": {
+          "current": {
+            "value": 19.54,
+            "text": "$19.54"
+          },
+          "previous": {
+            "value": 22.99,
+            "text": "$22.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "SILVER",
+        "colourWayId": 205370033,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132802641,
+        "productType": "Product",
+        "url": "asos-design/asos-design-faux-leather-wallet-in-silver/prd/205370032?clr=silver&colourWayId=205370033",
+        "imageUrl": "images.asos-media.com/products/asos-design-faux-leather-wallet-in-silver/205370032-1-silver",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-faux-leather-wallet-in-silver/205370032-2",
+          "images.asos-media.com/products/asos-design-faux-leather-wallet-in-silver/205370032-3",
+          "images.asos-media.com/products/asos-design-faux-leather-wallet-in-silver/205370032-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205562594,
+        "name": "River Island studded tote bag in blue",
+        "price": {
+          "current": {
+            "value": 55.25,
+            "text": "$55.25"
+          },
+          "previous": {
+            "value": 65,
+            "text": "$65.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BLUE",
+        "colourWayId": 205562595,
+        "brandName": "River Island",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133306773,
+        "productType": "Product",
+        "url": "river-island/river-island-studded-tote-bag-in-blue/prd/205562594?clr=blue&colourWayId=205562595",
+        "imageUrl": "images.asos-media.com/products/river-island-studded-tote-bag-in-blue/205562594-1-blue",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/river-island-studded-tote-bag-in-blue/205562594-2",
+          "images.asos-media.com/products/river-island-studded-tote-bag-in-blue/205562594-3",
+          "images.asos-media.com/products/river-island-studded-tote-bag-in-blue/205562594-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205415394,
+        "name": "ASOS DESIGN faux borg sling cross body bag in khaki",
+        "price": {
+          "current": {
+            "value": 31.49,
+            "text": "$31.49"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Khaki",
+        "colourWayId": 205415396,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132887806,
+        "productType": "Product",
+        "url": "asos-design/asos-design-faux-borg-sling-cross-body-bag-in-khaki/prd/205415394?clr=khaki&colourWayId=205415396",
+        "imageUrl": "images.asos-media.com/products/asos-design-faux-borg-sling-cross-body-bag-in-khaki/205415394-1-khaki",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-faux-borg-sling-cross-body-bag-in-khaki/205415394-2",
+          "images.asos-media.com/products/asos-design-faux-borg-sling-cross-body-bag-in-khaki/205415394-3"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205681946,
+        "name": "Rains 13000 unisex waterproof backpack in navy",
+        "price": {
+          "current": {
+            "value": 106.25,
+            "text": "$106.25"
+          },
+          "previous": {
+            "value": 125,
+            "text": "$125.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Navy",
+        "colourWayId": 205681951,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133534321,
+        "productType": "Product",
+        "url": "rains/rains-13000-unisex-waterproof-backpack-in-navy/prd/205681946?clr=navy&colourWayId=205681951",
+        "imageUrl": "images.asos-media.com/products/rains-13000-unisex-waterproof-backpack-in-navy/205681946-1-navy",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-13000-unisex-waterproof-backpack-in-navy/205681946-2",
+          "images.asos-media.com/products/rains-13000-unisex-waterproof-backpack-in-navy/205681946-3",
+          "images.asos-media.com/products/rains-13000-unisex-waterproof-backpack-in-navy/205681946-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205682102,
+        "name": "Rains MSN unisex waterproof backpack in gray",
+        "price": {
+          "current": {
+            "value": 93.5,
+            "text": "$93.50"
+          },
+          "previous": {
+            "value": 110,
+            "text": "$110.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Gray",
+        "colourWayId": 205682119,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133534333,
+        "productType": "Product",
+        "url": "rains/rains-msn-unisex-waterproof-backpack-in-gray/prd/205682102?clr=gray&colourWayId=205682119",
+        "imageUrl": "images.asos-media.com/products/rains-msn-unisex-waterproof-backpack-in-gray/205682102-1-grey",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-msn-unisex-waterproof-backpack-in-gray/205682102-2",
+          "images.asos-media.com/products/rains-msn-unisex-waterproof-backpack-in-gray/205682102-3",
+          "images.asos-media.com/products/rains-msn-unisex-waterproof-backpack-in-gray/205682102-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205153416,
+        "name": "ASOS DESIGN rubberized washbag in black",
+        "price": {
+          "current": {
+            "value": 18.39,
+            "text": "$18.39"
+          },
+          "previous": {
+            "value": 22.99,
+            "text": "$22.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205153418,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132328983,
+        "productType": "Product",
+        "url": "asos-design/asos-design-rubberized-washbag-in-black/prd/205153416?clr=black&colourWayId=205153418",
+        "imageUrl": "images.asos-media.com/products/asos-design-rubberized-washbag-in-black/205153416-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-rubberized-washbag-in-black/205153416-2",
+          "images.asos-media.com/products/asos-design-rubberized-washbag-in-black/205153416-3",
+          "images.asos-media.com/products/asos-design-rubberized-washbag-in-black/205153416-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205153416
+              },
+              {
+                "productId": 205153423
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205727244,
+        "name": "Pull&Bear urban crossbody fanny pack in beige",
+        "price": {
+          "current": {
+            "value": 19.46,
+            "text": "$19.46"
+          },
+          "previous": {
+            "value": 22.9,
+            "text": "$22.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BEIGE",
+        "colourWayId": 205727245,
+        "brandName": "Pull&Bear",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133611431,
+        "productType": "Product",
+        "url": "pullbear/pullbear-urban-crossbody-fanny-pack-in-beige/prd/205727244?clr=beige&colourWayId=205727245",
+        "imageUrl": "images.asos-media.com/products/pullbear-urban-crossbody-fanny-pack-in-beige/205727244-1-beige",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/pullbear-urban-crossbody-fanny-pack-in-beige/205727244-2",
+          "images.asos-media.com/products/pullbear-urban-crossbody-fanny-pack-in-beige/205727244-3",
+          "images.asos-media.com/products/pullbear-urban-crossbody-fanny-pack-in-beige/205727244-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205067663,
+        "name": "ASOS DESIGN medium size nylon toiletries bag in navy",
+        "price": {
+          "current": {
+            "value": 14.39,
+            "text": "$14.39"
+          },
+          "previous": {
+            "value": 17.99,
+            "text": "$17.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "NAVY",
+        "colourWayId": 205067665,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132143144,
+        "productType": "Product",
+        "url": "asos-design/asos-design-medium-size-nylon-toiletries-bag-in-navy/prd/205067663?clr=navy&colourWayId=205067665",
+        "imageUrl": "images.asos-media.com/products/asos-design-medium-size-nylon-toiletries-bag-in-navy/205067663-1-navy",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletries-bag-in-navy/205067663-2",
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletries-bag-in-navy/205067663-3",
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletries-bag-in-navy/205067663-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205067657
+              },
+              {
+                "productId": 205067663
+              },
+              {
+                "productId": 205067664
+              },
+              {
+                "productId": 205067651
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205320738,
+        "name": "ASOS DESIGN structured tote bag with cross body strap in gray",
+        "price": {
+          "current": {
+            "value": 29.74,
+            "text": "$29.74"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Gray",
+        "colourWayId": 205320739,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132679229,
+        "productType": "Product",
+        "url": "asos-design/asos-design-structured-tote-bag-with-cross-body-strap-in-gray/prd/205320738?clr=gray&colourWayId=205320739",
+        "imageUrl": "images.asos-media.com/products/asos-design-structured-tote-bag-with-cross-body-strap-in-gray/205320738-1-grey",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-structured-tote-bag-with-cross-body-strap-in-gray/205320738-2",
+          "images.asos-media.com/products/asos-design-structured-tote-bag-with-cross-body-strap-in-gray/205320738-3",
+          "images.asos-media.com/products/asos-design-structured-tote-bag-with-cross-body-strap-in-gray/205320738-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205695483,
+        "name": "Pull&Bear crossbody fanny pack in khaki",
+        "price": {
+          "current": {
+            "value": 25.11,
+            "text": "$25.11"
+          },
+          "previous": {
+            "value": 27.9,
+            "text": "$27.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Khaki",
+        "colourWayId": 205695484,
+        "brandName": "Pull&Bear",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133559432,
+        "productType": "Product",
+        "url": "pullbear/pullbear-crossbody-fanny-pack-in-khaki/prd/205695483?clr=khaki&colourWayId=205695484",
+        "imageUrl": "images.asos-media.com/products/pullbear-crossbody-fanny-pack-in-khaki/205695483-1-khaki",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/pullbear-crossbody-fanny-pack-in-khaki/205695483-2",
+          "images.asos-media.com/products/pullbear-crossbody-fanny-pack-in-khaki/205695483-3",
+          "images.asos-media.com/products/pullbear-crossbody-fanny-pack-in-khaki/205695483-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205032972,
+        "name": "ASOS DESIGN oversized half moon cross body bag in ecru",
+        "price": {
+          "current": {
+            "value": 26.39,
+            "text": "$26.39"
+          },
+          "previous": {
+            "value": 32.99,
+            "text": "$32.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "NEUTRAL",
+        "colourWayId": 205032973,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131754626,
+        "productType": "Product",
+        "url": "asos-design/asos-design-oversized-half-moon-cross-body-bag-in-ecru/prd/205032972?clr=neutral&colourWayId=205032973",
+        "imageUrl": "images.asos-media.com/products/asos-design-oversized-half-moon-cross-body-bag-in-ecru/205032972-1-neutral",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-oversized-half-moon-cross-body-bag-in-ecru/205032972-2",
+          "images.asos-media.com/products/asos-design-oversized-half-moon-cross-body-bag-in-ecru/205032972-3",
+          "images.asos-media.com/products/asos-design-oversized-half-moon-cross-body-bag-in-ecru/205032972-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205224754,
+        "name": "AllSaints Force backpack in black",
+        "price": {
+          "current": {
+            "value": 199.2,
+            "text": "$199.20"
+          },
+          "previous": {
+            "value": 249,
+            "text": "$249.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205224765,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132462815,
+        "productType": "Product",
+        "url": "allsaints/allsaints-force-backpack-in-black/prd/205224754?clr=black&colourWayId=205224765",
+        "imageUrl": "images.asos-media.com/products/allsaints-force-backpack-in-black/205224754-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-force-backpack-in-black/205224754-2",
+          "images.asos-media.com/products/allsaints-force-backpack-in-black/205224754-3",
+          "images.asos-media.com/products/allsaints-force-backpack-in-black/205224754-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205229923,
+        "name": "AllSaints Underground acid wash tote bag in khaki",
+        "price": {
+          "current": {
+            "value": 44.1,
+            "text": "$44.10"
+          },
+          "previous": {
+            "value": 49,
+            "text": "$49.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "grass green/black",
+        "colourWayId": 205229925,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132482085,
+        "productType": "Product",
+        "url": "allsaints/allsaints-underground-acid-wash-tote-bag-in-khaki/prd/205229923?clr=grass-green-black&colourWayId=205229925",
+        "imageUrl": "images.asos-media.com/products/allsaints-underground-acid-wash-tote-bag-in-khaki/205229923-1-grassgreenblack",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-underground-acid-wash-tote-bag-in-khaki/205229923-2",
+          "images.asos-media.com/products/allsaints-underground-acid-wash-tote-bag-in-khaki/205229923-3",
+          "images.asos-media.com/products/allsaints-underground-acid-wash-tote-bag-in-khaki/205229923-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 204274440
+              },
+              {
+                "productId": 204373910
+              },
+              {
+                "productId": 204392618
+              },
+              {
+                "productId": 204392621
+              },
+              {
+                "productId": 205229923
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205230211,
+        "name": "AllSaints Underground tote bag in black",
+        "price": {
+          "current": {
+            "value": 39.2,
+            "text": "$39.20"
+          },
+          "previous": {
+            "value": 49,
+            "text": "$49.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black/chalk",
+        "colourWayId": 205230218,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132482068,
+        "productType": "Product",
+        "url": "allsaints/allsaints-underground-tote-bag-in-black/prd/205230211?clr=black-chalk&colourWayId=205230218",
+        "imageUrl": "images.asos-media.com/products/allsaints-underground-tote-bag-in-black/205230211-1-blackchalk",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-underground-tote-bag-in-black/205230211-2",
+          "images.asos-media.com/products/allsaints-underground-tote-bag-in-black/205230211-3",
+          "images.asos-media.com/products/allsaints-underground-tote-bag-in-black/205230211-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205551348,
+        "name": "Fred Perry bi fold wallet in black",
+        "price": {
+          "current": {
+            "value": 54,
+            "text": "$54.00"
+          },
+          "previous": {
+            "value": 60,
+            "text": "$60.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205551349,
+        "brandName": "Fred Perry",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133280207,
+        "productType": "Product",
+        "url": "fred-perry/fred-perry-bi-fold-wallet-in-black/prd/205551348?clr=black&colourWayId=205551349",
+        "imageUrl": "images.asos-media.com/products/fred-perry-bi-fold-wallet-in-black/205551348-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/fred-perry-bi-fold-wallet-in-black/205551348-2",
+          "images.asos-media.com/products/fred-perry-bi-fold-wallet-in-black/205551348-3",
+          "images.asos-media.com/products/fred-perry-bi-fold-wallet-in-black/205551348-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205691159,
+        "name": "Bershka buckle backbag in black",
+        "price": {
+          "current": {
+            "value": 42.41,
+            "text": "$42.41"
+          },
+          "previous": {
+            "value": 49.9,
+            "text": "$49.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205691162,
+        "brandName": "Bershka",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133549867,
+        "productType": "Product",
+        "url": "bershka/bershka-buckle-backbag-in-black/prd/205691159?clr=black&colourWayId=205691162",
+        "imageUrl": "images.asos-media.com/products/bershka-buckle-backbag-in-black/205691159-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/bershka-buckle-backbag-in-black/205691159-2",
+          "images.asos-media.com/products/bershka-buckle-backbag-in-black/205691159-3",
+          "images.asos-media.com/products/bershka-buckle-backbag-in-black/205691159-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205067095,
+        "name": "ASOS DESIGN cross body tote bag in washed black",
+        "price": {
+          "current": {
+            "value": 31.34,
+            "text": "$31.34"
+          },
+          "previous": {
+            "value": 32.99,
+            "text": "$32.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205067098,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132142638,
+        "productType": "Product",
+        "url": "asos-design/asos-design-cross-body-tote-bag-in-washed-black/prd/205067095?clr=black&colourWayId=205067098",
+        "imageUrl": "images.asos-media.com/products/asos-design-cross-body-tote-bag-in-washed-black/205067095-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-cross-body-tote-bag-in-washed-black/205067095-2",
+          "images.asos-media.com/products/asos-design-cross-body-tote-bag-in-washed-black/205067095-3",
+          "images.asos-media.com/products/asos-design-cross-body-tote-bag-in-washed-black/205067095-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205109898,
+        "name": "ASOS DESIGN flight bag with sports details in black",
+        "price": {
+          "current": {
+            "value": 26.24,
+            "text": "$26.24"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205109908,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132239395,
+        "productType": "Product",
+        "url": "asos-design/asos-design-flight-bag-with-sports-details-in-black/prd/205109898?clr=black&colourWayId=205109908",
+        "imageUrl": "images.asos-media.com/products/asos-design-flight-bag-with-sports-details-in-black/205109898-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-flight-bag-with-sports-details-in-black/205109898-2",
+          "images.asos-media.com/products/asos-design-flight-bag-with-sports-details-in-black/205109898-3",
+          "images.asos-media.com/products/asos-design-flight-bag-with-sports-details-in-black/205109898-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205664423,
+        "name": "Pull&Bear urban backpack in black",
+        "price": {
+          "current": {
+            "value": 42.41,
+            "text": "$42.41"
+          },
+          "previous": {
+            "value": 49.9,
+            "text": "$49.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205664427,
+        "brandName": "Pull&Bear",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133509567,
+        "productType": "Product",
+        "url": "pullbear/pullbear-urban-backpack-in-black/prd/205664423?clr=black&colourWayId=205664427",
+        "imageUrl": "images.asos-media.com/products/pullbear-urban-backpack-in-black/205664423-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/pullbear-urban-backpack-in-black/205664423-2",
+          "images.asos-media.com/products/pullbear-urban-backpack-in-black/205664423-3",
+          "images.asos-media.com/products/pullbear-urban-backpack-in-black/205664423-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205518171,
+        "name": "Rains 13300 MSN unisex waterproof large backpack in black",
+        "price": {
+          "current": {
+            "value": 88,
+            "text": "$88.00"
+          },
+          "previous": {
+            "value": 110,
+            "text": "$110.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205518172,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133033261,
+        "productType": "Product",
+        "url": "rains/rains-13300-msn-unisex-waterproof-large-backpack-in-black/prd/205518171?clr=black&colourWayId=205518172",
+        "imageUrl": "images.asos-media.com/products/rains-13300-msn-unisex-waterproof-large-backpack-in-black/205518171-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-13300-msn-unisex-waterproof-large-backpack-in-black/205518171-2",
+          "images.asos-media.com/products/rains-13300-msn-unisex-waterproof-large-backpack-in-black/205518171-3",
+          "images.asos-media.com/products/rains-13300-msn-unisex-waterproof-large-backpack-in-black/205518171-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 202365171,
+        "name": "Manhattan Portage festival pouch in multi",
+        "price": {
+          "current": {
+            "value": 42,
+            "text": "$42.00"
+          },
+          "previous": {
+            "value": 56,
+            "text": "$56.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "LEOPARD",
+        "colourWayId": 202365172,
+        "brandName": "Manhattan Portage",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 116375017,
+        "productType": "Product",
+        "url": "manhattan-portage/manhattan-portage-festival-pouch-in-multi/prd/202365171?clr=leopard&colourWayId=202365172",
+        "imageUrl": "images.asos-media.com/products/manhattan-portage-festival-pouch-in-multi/202365171-1-leopard",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/manhattan-portage-festival-pouch-in-multi/202365171-2",
+          "images.asos-media.com/products/manhattan-portage-festival-pouch-in-multi/202365171-3",
+          "images.asos-media.com/products/manhattan-portage-festival-pouch-in-multi/202365171-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205027175,
+        "name": "ASOS DESIGN sling cross body bag in khaki plisse",
+        "price": {
+          "current": {
+            "value": 20.99,
+            "text": "$20.99"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Khaki",
+        "colourWayId": 205027182,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131739011,
+        "productType": "Product",
+        "url": "asos-design/asos-design-sling-cross-body-bag-in-khaki-plisse/prd/205027175?clr=khaki&colourWayId=205027182",
+        "imageUrl": "images.asos-media.com/products/asos-design-sling-cross-body-bag-in-khaki-plisse/205027175-1-khaki",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-sling-cross-body-bag-in-khaki-plisse/205027175-2",
+          "images.asos-media.com/products/asos-design-sling-cross-body-bag-in-khaki-plisse/205027175-3",
+          "images.asos-media.com/products/asos-design-sling-cross-body-bag-in-khaki-plisse/205027175-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205027175
+              },
+              {
+                "productId": 205027190
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205209618,
+        "name": "Marshall Artist injection logo flight bag in black",
+        "price": {
+          "current": {
+            "value": 29.4,
+            "text": "$29.40"
+          },
+          "previous": {
+            "value": 49,
+            "text": "$49.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205209619,
+        "brandName": "Marshall Artist",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132437429,
+        "productType": "Product",
+        "url": "marshall-artist/marshall-artist-injection-logo-flight-bag-in-black/prd/205209618?clr=black&colourWayId=205209619",
+        "imageUrl": "images.asos-media.com/products/marshall-artist-injection-logo-flight-bag-in-black/205209618-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/marshall-artist-injection-logo-flight-bag-in-black/205209618-2",
+          "images.asos-media.com/products/marshall-artist-injection-logo-flight-bag-in-black/205209618-3",
+          "images.asos-media.com/products/marshall-artist-injection-logo-flight-bag-in-black/205209618-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205518164,
+        "name": "Rains 13020 unisex waterproof mini backpack in khaki",
+        "price": {
+          "current": {
+            "value": 99,
+            "text": "$99.00"
+          },
+          "previous": {
+            "value": 110,
+            "text": "$110.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "GREEN",
+        "colourWayId": 205518165,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133033199,
+        "productType": "Product",
+        "url": "rains/rains-13020-unisex-waterproof-mini-backpack-in-khaki/prd/205518164?clr=green&colourWayId=205518165",
+        "imageUrl": "images.asos-media.com/products/rains-13020-unisex-waterproof-mini-backpack-in-khaki/205518164-1-green",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-13020-unisex-waterproof-mini-backpack-in-khaki/205518164-2",
+          "images.asos-media.com/products/rains-13020-unisex-waterproof-mini-backpack-in-khaki/205518164-3",
+          "images.asos-media.com/products/rains-13020-unisex-waterproof-mini-backpack-in-khaki/205518164-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 204417923
+              },
+              {
+                "productId": 205518164
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205518167,
+        "name": "Rains 13320 unisex waterproof roll top backpack in black",
+        "price": {
+          "current": {
+            "value": 112,
+            "text": "$112.00"
+          },
+          "previous": {
+            "value": 140,
+            "text": "$140.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205518168,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133033823,
+        "productType": "Product",
+        "url": "rains/rains-13320-unisex-waterproof-roll-top-backpack-in-black/prd/205518167?clr=black&colourWayId=205518168",
+        "imageUrl": "images.asos-media.com/products/rains-13320-unisex-waterproof-roll-top-backpack-in-black/205518167-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-13320-unisex-waterproof-roll-top-backpack-in-black/205518167-2",
+          "images.asos-media.com/products/rains-13320-unisex-waterproof-roll-top-backpack-in-black/205518167-3",
+          "images.asos-media.com/products/rains-13320-unisex-waterproof-roll-top-backpack-in-black/205518167-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 202211482
+              },
+              {
+                "productId": 205518167
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205518258,
+        "name": "Rains 14700 unisex waterproof mini fanny pack in black",
+        "price": {
+          "current": {
+            "value": 59.5,
+            "text": "$59.50"
+          },
+          "previous": {
+            "value": 70,
+            "text": "$70.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205518259,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133033236,
+        "productType": "Product",
+        "url": "rains/rains-14700-unisex-waterproof-mini-fanny-pack-in-black/prd/205518258?clr=black&colourWayId=205518259",
+        "imageUrl": "images.asos-media.com/products/rains-14700-unisex-waterproof-mini-fanny-pack-in-black/205518258-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-14700-unisex-waterproof-mini-fanny-pack-in-black/205518258-2",
+          "images.asos-media.com/products/rains-14700-unisex-waterproof-mini-fanny-pack-in-black/205518258-3",
+          "images.asos-media.com/products/rains-14700-unisex-waterproof-mini-fanny-pack-in-black/205518258-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 202211455
+              },
+              {
+                "productId": 205518258
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205519686,
+        "name": "Rains 14200 unisex waterproof weekend duffel bag in khaki",
+        "price": {
+          "current": {
+            "value": 93.5,
+            "text": "$93.50"
+          },
+          "previous": {
+            "value": 110,
+            "text": "$110.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "GREEN",
+        "colourWayId": 205519687,
+        "brandName": "Rains",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133032549,
+        "productType": "Product",
+        "url": "rains/rains-14200-unisex-waterproof-weekend-duffel-bag-in-khaki/prd/205519686?clr=green&colourWayId=205519687",
+        "imageUrl": "images.asos-media.com/products/rains-14200-unisex-waterproof-weekend-duffel-bag-in-khaki/205519686-1-green",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/rains-14200-unisex-waterproof-weekend-duffel-bag-in-khaki/205519686-2",
+          "images.asos-media.com/products/rains-14200-unisex-waterproof-weekend-duffel-bag-in-khaki/205519686-3",
+          "images.asos-media.com/products/rains-14200-unisex-waterproof-weekend-duffel-bag-in-khaki/205519686-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 202534342
+              },
+              {
+                "productId": 205519686
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205623616,
+        "name": "Bershka cross body bag in black",
+        "price": {
+          "current": {
+            "value": 25.11,
+            "text": "$25.11"
+          },
+          "previous": {
+            "value": 27.9,
+            "text": "$27.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205623621,
+        "brandName": "Bershka",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133433256,
+        "productType": "Product",
+        "url": "bershka/bershka-cross-body-bag-in-black/prd/205623616?clr=black&colourWayId=205623621",
+        "imageUrl": "images.asos-media.com/products/bershka-cross-body-bag-in-black/205623616-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/bershka-cross-body-bag-in-black/205623616-2",
+          "images.asos-media.com/products/bershka-cross-body-bag-in-black/205623616-3",
+          "images.asos-media.com/products/bershka-cross-body-bag-in-black/205623616-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205623733,
+        "name": "Bershka contrast detail cross body bag in black",
+        "price": {
+          "current": {
+            "value": 34.1,
+            "text": "$34.10"
+          },
+          "previous": {
+            "value": 35.9,
+            "text": "$35.90"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205623734,
+        "brandName": "Bershka",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 133433248,
+        "productType": "Product",
+        "url": "bershka/bershka-contrast-detail-cross-body-bag-in-black/prd/205623733?clr=black&colourWayId=205623734",
+        "imageUrl": "images.asos-media.com/products/bershka-contrast-detail-cross-body-bag-in-black/205623733-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/bershka-contrast-detail-cross-body-bag-in-black/205623733-2",
+          "images.asos-media.com/products/bershka-contrast-detail-cross-body-bag-in-black/205623733-3",
+          "images.asos-media.com/products/bershka-contrast-detail-cross-body-bag-in-black/205623733-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205117188,
+        "name": "ASOS DESIGN nylon tote bag in black",
+        "price": {
+          "current": {
+            "value": 29.74,
+            "text": "$29.74"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205117189,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132250027,
+        "productType": "Product",
+        "url": "asos-design/asos-design-nylon-tote-bag-in-black/prd/205117188?clr=black&colourWayId=205117189",
+        "imageUrl": "images.asos-media.com/products/asos-design-nylon-tote-bag-in-black/205117188-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-nylon-tote-bag-in-black/205117188-2",
+          "images.asos-media.com/products/asos-design-nylon-tote-bag-in-black/205117188-3",
+          "images.asos-media.com/products/asos-design-nylon-tote-bag-in-black/205117188-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205180850,
+        "name": "ASOS DESIGN nylon holdall bag in navy",
+        "price": {
+          "current": {
+            "value": 24.99,
+            "text": "$24.99"
+          },
+          "previous": {
+            "value": 49.99,
+            "text": "$49.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "NAVY",
+        "colourWayId": 205180852,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132374156,
+        "productType": "Product",
+        "url": "asos-design/asos-design-nylon-holdall-bag-in-navy/prd/205180850?clr=navy&colourWayId=205180852",
+        "imageUrl": "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-navy/205180850-1-navy",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-navy/205180850-2",
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-navy/205180850-3",
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-navy/205180850-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205180850
+              },
+              {
+                "productId": 205180851
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205320741,
+        "name": "ASOS DESIGN half moon sling bag in washed faux leather in gray",
+        "price": {
+          "current": {
+            "value": 27.99,
+            "text": "$27.99"
+          },
+          "previous": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Gray",
+        "colourWayId": 205320742,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132679243,
+        "productType": "Product",
+        "url": "asos-design/asos-design-half-moon-sling-bag-in-washed-faux-leather-in-gray/prd/205320741?clr=gray&colourWayId=205320742",
+        "imageUrl": "images.asos-media.com/products/asos-design-half-moon-sling-bag-in-washed-faux-leather-in-gray/205320741-1-grey",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-half-moon-sling-bag-in-washed-faux-leather-in-gray/205320741-2",
+          "images.asos-media.com/products/asos-design-half-moon-sling-bag-in-washed-faux-leather-in-gray/205320741-3",
+          "images.asos-media.com/products/asos-design-half-moon-sling-bag-in-washed-faux-leather-in-gray/205320741-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205067657,
+        "name": "ASOS DESIGN medium size nylon toiletry bag in burnt orange",
+        "price": {
+          "current": {
+            "value": 13.49,
+            "text": "$13.49"
+          },
+          "previous": {
+            "value": 17.99,
+            "text": "$17.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BROWN",
+        "colourWayId": 205067658,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132143142,
+        "productType": "Product",
+        "url": "asos-design/asos-design-medium-size-nylon-toiletry-bag-in-burnt-orange/prd/205067657?clr=brown&colourWayId=205067658",
+        "imageUrl": "images.asos-media.com/products/asos-design-medium-size-nylon-toiletry-bag-in-burnt-orange/205067657-1-brown",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletry-bag-in-burnt-orange/205067657-2",
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletry-bag-in-burnt-orange/205067657-3",
+          "images.asos-media.com/products/asos-design-medium-size-nylon-toiletry-bag-in-burnt-orange/205067657-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205067657
+              },
+              {
+                "productId": 205067663
+              },
+              {
+                "productId": 205067664
+              },
+              {
+                "productId": 205067651
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205180851,
+        "name": "ASOS DESIGN nylon holdall bag in black",
+        "price": {
+          "current": {
+            "value": 34.99,
+            "text": "$34.99"
+          },
+          "previous": {
+            "value": 49.99,
+            "text": "$49.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205180854,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132374155,
+        "productType": "Product",
+        "url": "asos-design/asos-design-nylon-holdall-bag-in-black/prd/205180851?clr=black&colourWayId=205180854",
+        "imageUrl": "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-black/205180851-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-black/205180851-2",
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-black/205180851-3",
+          "images.asos-media.com/products/asos-design-nylon-holdall-bag-in-black/205180851-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205180850
+              },
+              {
+                "productId": 205180851
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205067106,
+        "name": "ASOS DESIGN leather cross-body camera bag in black",
+        "price": {
+          "current": {
+            "value": 32.99,
+            "text": "$32.99"
+          },
+          "previous": {
+            "value": 54.99,
+            "text": "$54.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205067107,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132142637,
+        "productType": "Product",
+        "url": "asos-design/asos-design-leather-cross-body-camera-bag-in-black/prd/205067106?clr=black&colourWayId=205067107",
+        "imageUrl": "images.asos-media.com/products/asos-design-leather-cross-body-camera-bag-in-black/205067106-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-leather-cross-body-camera-bag-in-black/205067106-2",
+          "images.asos-media.com/products/asos-design-leather-cross-body-camera-bag-in-black/205067106-3",
+          "images.asos-media.com/products/asos-design-leather-cross-body-camera-bag-in-black/205067106-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204771978,
+        "name": "The North Face monogram cross body bag in brown",
+        "price": {
+          "current": {
+            "value": 25,
+            "text": "$25.00"
+          },
+          "previous": {
+            "value": 50,
+            "text": "$50.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BROWN",
+        "colourWayId": 204771981,
+        "brandName": "The North Face",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 129245090,
+        "productType": "Product",
+        "url": "the-north-face/the-north-face-monogram-cross-body-bag-in-brown/prd/204771978?clr=brown&colourWayId=204771981",
+        "imageUrl": "images.asos-media.com/products/the-north-face-monogram-cross-body-bag-in-brown/204771978-1-brown",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/the-north-face-monogram-cross-body-bag-in-brown/204771978-2",
+          "images.asos-media.com/products/the-north-face-monogram-cross-body-bag-in-brown/204771978-3",
+          "images.asos-media.com/products/the-north-face-monogram-cross-body-bag-in-brown/204771978-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205027183,
+        "name": "ASOS DESIGN leather wallet in black with blue inner",
+        "price": {
+          "current": {
+            "value": 16.09,
+            "text": "$16.09"
+          },
+          "previous": {
+            "value": 22.99,
+            "text": "$22.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205027186,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131739015,
+        "productType": "Product",
+        "url": "asos-design/asos-design-leather-wallet-in-black-with-blue-inner/prd/205027183?clr=black&colourWayId=205027186",
+        "imageUrl": "images.asos-media.com/products/asos-design-leather-wallet-in-black-with-blue-inner/205027183-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-leather-wallet-in-black-with-blue-inner/205027183-2",
+          "images.asos-media.com/products/asos-design-leather-wallet-in-black-with-blue-inner/205027183-3",
+          "images.asos-media.com/products/asos-design-leather-wallet-in-black-with-blue-inner/205027183-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205067083,
+        "name": "ASOS DESIGN leather crossbody bag with zip pockets in black",
+        "price": {
+          "current": {
+            "value": 38.49,
+            "text": "$38.49"
+          },
+          "previous": {
+            "value": 54.99,
+            "text": "$54.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205067084,
+        "brandName": "ASOS DESIGN",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132142636,
+        "productType": "Product",
+        "url": "asos-design/asos-design-leather-crossbody-bag-with-zip-pockets-in-black/prd/205067083?clr=black&colourWayId=205067084",
+        "imageUrl": "images.asos-media.com/products/asos-design-leather-crossbody-bag-with-zip-pockets-in-black/205067083-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/asos-design-leather-crossbody-bag-with-zip-pockets-in-black/205067083-2",
+          "images.asos-media.com/products/asos-design-leather-crossbody-bag-with-zip-pockets-in-black/205067083-3",
+          "images.asos-media.com/products/asos-design-leather-crossbody-bag-with-zip-pockets-in-black/205067083-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205175722,
+        "name": "AllSaints x ASOS exclusive unisex Eli tote bag in gray",
+        "price": {
+          "current": {
+            "value": 33.15,
+            "text": "$33.15"
+          },
+          "previous": {
+            "value": 39,
+            "text": "$39.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "ALUMINUM GRAY/RED",
+        "colourWayId": 205175724,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132370074,
+        "productType": "Product",
+        "url": "allsaints/allsaints-x-asos-exclusive-unisex-eli-tote-bag-in-gray/prd/205175722?clr=aluminum-gray-red&colourWayId=205175724",
+        "imageUrl": "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-eli-tote-bag-in-gray/205175722-1-aluminiumgreyred",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-eli-tote-bag-in-gray/205175722-2",
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-eli-tote-bag-in-gray/205175722-3",
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-eli-tote-bag-in-gray/205175722-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205175722
+              },
+              {
+                "productId": 205175781
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205015720,
+        "name": "Fenton roll top backpack in black",
+        "price": {
+          "current": {
+            "value": 39.1,
+            "text": "$39.10"
+          },
+          "previous": {
+            "value": 46,
+            "text": "$46.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205015721,
+        "brandName": "Fenton",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131650894,
+        "productType": "Product",
+        "url": "fenton/fenton-roll-top-backpack-in-black/prd/205015720?clr=black&colourWayId=205015721",
+        "imageUrl": "images.asos-media.com/products/fenton-roll-top-backpack-in-black/205015720-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/fenton-roll-top-backpack-in-black/205015720-2",
+          "images.asos-media.com/products/fenton-roll-top-backpack-in-black/205015720-3",
+          "images.asos-media.com/products/fenton-roll-top-backpack-in-black/205015720-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205230088,
+        "name": "AllSaints Ader crossbody bag in black",
+        "price": {
+          "current": {
+            "value": 143.65,
+            "text": "$143.65"
+          },
+          "previous": {
+            "value": 169,
+            "text": "$169.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205230111,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132482054,
+        "productType": "Product",
+        "url": "allsaints/allsaints-ader-crossbody-bag-in-black/prd/205230088?clr=black&colourWayId=205230111",
+        "imageUrl": "images.asos-media.com/products/allsaints-ader-crossbody-bag-in-black/205230088-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-ader-crossbody-bag-in-black/205230088-2",
+          "images.asos-media.com/products/allsaints-ader-crossbody-bag-in-black/205230088-3",
+          "images.asos-media.com/products/allsaints-ader-crossbody-bag-in-black/205230088-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203941239,
+        "name": "Hvisk Scape faux leather shoulder bag in black",
+        "price": {
+          "current": {
+            "value": 116.45,
+            "text": "$116.45"
+          },
+          "previous": {
+            "value": 137,
+            "text": "$137.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "EPIC BLACK",
+        "colourWayId": 203941242,
+        "brandName": "HVISK",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 123603430,
+        "productType": "Product",
+        "url": "hvisk/hvisk-scape-faux-leather-shoulder-bag-in-black/prd/203941239?clr=epic-black&colourWayId=203941242",
+        "imageUrl": "images.asos-media.com/products/hvisk-scape-faux-leather-shoulder-bag-in-black/203941239-1-epicblack",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/hvisk-scape-faux-leather-shoulder-bag-in-black/203941239-2",
+          "images.asos-media.com/products/hvisk-scape-faux-leather-shoulder-bag-in-black/203941239-3",
+          "images.asos-media.com/products/hvisk-scape-faux-leather-shoulder-bag-in-black/203941239-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204771995,
+        "name": "The North Face crossbody bag in white",
+        "price": {
+          "current": {
+            "value": 41.3,
+            "text": "$41.30"
+          },
+          "previous": {
+            "value": 59,
+            "text": "$59.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "WHITE",
+        "colourWayId": 204771996,
+        "brandName": "The North Face",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 129245089,
+        "productType": "Product",
+        "url": "the-north-face/the-north-face-crossbody-bag-in-white/prd/204771995?clr=white&colourWayId=204771996",
+        "imageUrl": "images.asos-media.com/products/the-north-face-crossbody-bag-in-white/204771995-1-white",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/the-north-face-crossbody-bag-in-white/204771995-2",
+          "images.asos-media.com/products/the-north-face-crossbody-bag-in-white/204771995-3",
+          "images.asos-media.com/products/the-north-face-crossbody-bag-in-white/204771995-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205175781,
+        "name": "AllSaints x ASOS exclusive unisex Paxton Rose Cross tote bag in gray",
+        "price": {
+          "current": {
+            "value": 33.15,
+            "text": "$33.15"
+          },
+          "previous": {
+            "value": 39,
+            "text": "$39.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black/chalk",
+        "colourWayId": 205175784,
+        "brandName": "AllSaints",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132370075,
+        "productType": "Product",
+        "url": "allsaints/allsaints-x-asos-exclusive-unisex-paxton-rose-cross-tote-bag-in-gray/prd/205175781?clr=black-chalk&colourWayId=205175784",
+        "imageUrl": "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-paxton-rose-cross-tote-bag-in-gray/205175781-1-blackchalk",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-paxton-rose-cross-tote-bag-in-gray/205175781-2",
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-paxton-rose-cross-tote-bag-in-gray/205175781-3",
+          "images.asos-media.com/products/allsaints-x-asos-exclusive-unisex-paxton-rose-cross-tote-bag-in-gray/205175781-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205175722
+              },
+              {
+                "productId": 205175781
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 204764132,
+        "name": "Tommy Hilfiger premium leather bifold wallet in black",
+        "price": {
+          "current": {
+            "value": 56.25,
+            "text": "$56.25"
+          },
+          "previous": {
+            "value": 75,
+            "text": "$75.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 204764142,
+        "brandName": "Tommy Hilfiger",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 129175923,
+        "productType": "Product",
+        "url": "tommy-hilfiger/tommy-hilfiger-premium-leather-bifold-wallet-in-black/prd/204764132?clr=black&colourWayId=204764142",
+        "imageUrl": "images.asos-media.com/products/tommy-hilfiger-premium-leather-bifold-wallet-in-black/204764132-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/tommy-hilfiger-premium-leather-bifold-wallet-in-black/204764132-2",
+          "images.asos-media.com/products/tommy-hilfiger-premium-leather-bifold-wallet-in-black/204764132-3",
+          "images.asos-media.com/products/tommy-hilfiger-premium-leather-bifold-wallet-in-black/204764132-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205333134,
+        "name": "River Island holdall in light brown",
+        "price": {
+          "current": {
+            "value": 80,
+            "text": "$80.00"
+          },
+          "previous": {
+            "value": 100,
+            "text": "$100.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Light brown",
+        "colourWayId": 205333142,
+        "brandName": "River Island",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132716048,
+        "productType": "Product",
+        "url": "river-island/river-island-holdall-in-light-brown/prd/205333134?clr=light-brown&colourWayId=205333142",
+        "imageUrl": "images.asos-media.com/products/river-island-holdall-in-light-brown/205333134-1-lightbrown",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/river-island-holdall-in-light-brown/205333134-2",
+          "images.asos-media.com/products/river-island-holdall-in-light-brown/205333134-3",
+          "images.asos-media.com/products/river-island-holdall-in-light-brown/205333134-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      }
+    ],
+    "facets": [
+      {
+        "id": "freshness_band",
+        "name": "New in date",
+        "facetValues": [
+          {
+            "count": 4,
+            "id": "1",
+            "name": "Today",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "2",
+            "name": "Yesterday",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "3",
+            "name": "Last 7 Days",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "4",
+            "name": "Last 14 Days",
+            "isSelected": false
+          },
+          {
+            "count": 29,
+            "id": "5",
+            "name": "Last 28 Days",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "discount_band",
+        "name": "Discount %",
+        "facetValues": [
+          {
+            "count": 14,
+            "id": "6",
+            "name": "60% or more",
+            "isSelected": false
+          },
+          {
+            "count": 40,
+            "id": "5",
+            "name": "50% - 60%",
+            "isSelected": false
+          },
+          {
+            "count": 53,
+            "id": "4",
+            "name": "40% - 50%",
+            "isSelected": false
+          },
+          {
+            "count": 32,
+            "id": "3",
+            "name": "30% - 40%",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "2",
+            "name": "20% - 30%",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "brand",
+        "name": "Brand",
+        "facetValues": [
+          {
+            "count": 83,
+            "id": "53",
+            "name": "ASOS DESIGN",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "15643",
+            "name": "ASOS 4505",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "18",
+            "name": "adidas Originals",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "16346",
+            "name": "adidas performance",
+            "isSelected": false
+          },
+          {
+            "count": 9,
+            "id": "12791",
+            "name": "AllSaints",
+            "isSelected": false
+          },
+          {
+            "count": 17,
+            "id": "15078",
+            "name": "Artsac",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "15169",
+            "name": "ASOS MADE IN",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "12491",
+            "name": "Barneys Originals",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "21450",
+            "name": "Basic Pleasure Mode",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "12113",
+            "name": "Berghaus",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "15370",
+            "name": "Bershka",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "105",
+            "name": "Calvin Klein",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "12507",
+            "name": "Calvin Klein Jeans",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "15059",
+            "name": "Columbia",
+            "isSelected": false
+          },
+          {
+            "count": 11,
+            "id": "3253",
+            "name": "Dickies",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "16248",
+            "name": "Fenton",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "2943",
+            "name": "Fred Perry",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "16522",
+            "name": "Gramicci",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "21960",
+            "name": "GUESS Originals",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "13126",
+            "name": "Herschel Supply Co",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "16705",
+            "name": "HVISK",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "12461",
+            "name": "Jack & Jones",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "16434",
+            "name": "Labelrail",
+            "isSelected": false
+          },
+          {
+            "count": 16,
+            "id": "13661",
+            "name": "Love Moschino",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "13754",
+            "name": "Manhattan Portage",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "13214",
+            "name": "Marshall Artist",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "13817",
+            "name": "New Look",
+            "isSelected": false
+          },
+          {
+            "count": 13,
+            "id": "2986",
+            "name": "Nike",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "13872",
+            "name": "PS Paul Smith",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "14823",
+            "name": "Public Desire",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "14126",
+            "name": "Pull&Bear",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "589",
+            "name": "Puma",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "13621",
+            "name": "Quiksilver",
+            "isSelected": false
+          },
+          {
+            "count": 22,
+            "id": "14100",
+            "name": "Rains",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "12769",
+            "name": "Reclaimed Vintage",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "12983",
+            "name": "River Island",
+            "isSelected": false
+          },
+          {
+            "count": 20,
+            "id": "3312",
+            "name": "The North Face",
+            "isSelected": false
+          },
+          {
+            "count": 17,
+            "id": "3029",
+            "name": "Tommy Hilfiger",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "15631",
+            "name": "Tommy Jeans",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "13137",
+            "name": "True Decadence",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "765",
+            "name": "Vans",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "14287",
+            "name": "Weekday",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "attribute_1047",
+        "name": "Product Type",
+        "facetValues": [
+          {
+            "count": 170,
+            "id": "8283",
+            "name": "Bags",
+            "isSelected": false
+          },
+          {
+            "count": 83,
+            "id": "8281",
+            "name": "Backpacks",
+            "isSelected": false
+          },
+          {
+            "count": 36,
+            "id": "8266",
+            "name": "Fanny Packs",
+            "isSelected": false
+          },
+          {
+            "count": 25,
+            "id": "8280",
+            "name": "Wallets",
+            "isSelected": false
+          },
+          {
+            "count": 13,
+            "id": "8282",
+            "name": "Wash Bags",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "8270",
+            "name": "Wallet & Cardholder Sets",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "8431",
+            "name": "Wallets",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "10071",
+            "name": "Makeup Bags",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "attribute_1046",
+        "name": "Style",
+        "facetValues": [
+          {
+            "count": 86,
+            "id": "8378",
+            "name": "Across Body",
+            "isSelected": false
+          },
+          {
+            "count": 29,
+            "id": "8204",
+            "name": "Tote",
+            "isSelected": false
+          },
+          {
+            "count": 21,
+            "id": "8194",
+            "name": "Holdall",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "8380",
+            "name": "Shoulder",
+            "isSelected": false
+          },
+          {
+            "count": 9,
+            "id": "8381",
+            "name": "Clutch",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "61468",
+            "name": "Other",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "8197",
+            "name": "Messenger",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "62009",
+            "name": "Micro Bags",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "8190",
+            "name": "Flight",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "8212",
+            "name": "Barrel",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "8216",
+            "name": "Bucket",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "attribute_10147",
+        "name": "Leather / Non Leather",
+        "facetValues": [
+          {
+            "count": 26,
+            "id": "2244",
+            "name": "Leather",
+            "isSelected": false
+          },
+          {
+            "count": 272,
+            "id": "2256",
+            "name": "Non Leather",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "base_colour",
+        "name": "Color",
+        "facetValues": [
+          {
+            "count": 178,
+            "id": "4",
+            "name": "Black",
+            "isSelected": false
+          },
+          {
+            "count": 37,
+            "id": "2",
+            "name": "Green",
+            "isSelected": false
+          },
+          {
+            "count": 22,
+            "id": "37",
+            "name": "Neutral",
+            "isSelected": false
+          },
+          {
+            "count": 21,
+            "id": "16",
+            "name": "Gray",
+            "isSelected": false
+          },
+          {
+            "count": 20,
+            "id": "10",
+            "name": "Brown",
+            "isSelected": false
+          },
+          {
+            "count": 15,
+            "id": "5",
+            "name": "White",
+            "isSelected": false
+          },
+          {
+            "count": 11,
+            "id": "17",
+            "name": "Multi",
+            "isSelected": false
+          },
+          {
+            "count": 10,
+            "id": "9",
+            "name": "Pink",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "3",
+            "name": "Blue",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "8",
+            "name": "Purple",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "12",
+            "name": "Silver",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "33",
+            "name": "Navy",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "6",
+            "name": "Yellow",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "1",
+            "name": "Red",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "7",
+            "name": "Orange",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "currentprice",
+        "name": "Price Range",
+        "facetValues": [
+          {
+            "count": 1,
+            "id": "5.53",
+            "name": "5.53",
+            "isSelected": false
+          },
+          {
+            "count": 2,
+            "id": "278.0",
+            "name": "278.0",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Price-Slider",
+        "facetType": "Range",
+        "hasSelectedValues": false
+      }
+    ],
+    "diagnostics": {
+      "requestId": "e8d09f5a-ef86-46e9-93ec-9044a8edbd0a",
+      "processingTime": 135,
+      "queryTime": 68,
+      "recommendationsEnabled": false,
+      "recommendationsAnalytics": {
+        "personalisationStatus": 5,
+        "numberOfItems": 0,
+        "numberOfRecs": 0,
+        "personalisationType": "",
+        "experimentTrackerkey": "",
+        "items": []
+      },
+      "advertisementsEnabled": false,
+      "advertisementsAnalytics": {
+        "status": 4,
+        "customerOptIn": false,
+        "numberOfItemsFromPartner": 0,
+        "items": [],
+        "itemsFromPartner": [],
+        "placementBeacons": {
+          "onLoadBeacon": null,
+          "onViewBeacon": null
+        }
+      }
+    },
+    "searchPassMeta": {
+      "isPartial": false,
+      "isSpellcheck": false,
+      "searchPass": [],
+      "alternateSearchTerms": []
+    },
+    "queryId": null,
+    "discoverSearchProductTypes": [],
+    "campaigns": {
+      "imageTiles": [],
+      "promoBanners": [],
+      "sponsoredProducts": []
+    }
+  }

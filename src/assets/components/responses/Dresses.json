@@ -1,0 +1,2849 @@
+{
+    "searchTerm": "",
+    "categoryName": "Dresses",
+    "itemCount": 1043,
+    "redirectUrl": "",
+    "products": [
+      {
+        "id": 205351450,
+        "name": "Topshop bold floral placement print mini dress in red and black",
+        "price": {
+          "current": {
+            "value": 46.74,
+            "text": "$46.74"
+          },
+          "previous": {
+            "value": 54.99,
+            "text": "$54.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 205351455,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132767593,
+        "productType": "Product",
+        "url": "topshop/topshop-bold-floral-placement-print-mini-dress-in-red-and-black/prd/205351450?clr=multi&colourWayId=205351455",
+        "imageUrl": "images.asos-media.com/products/topshop-bold-floral-placement-print-mini-dress-in-red-and-black/205351450-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-mini-dress-in-red-and-black/205351450-2",
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-mini-dress-in-red-and-black/205351450-3",
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-mini-dress-in-red-and-black/205351450-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205001500,
+        "name": "Topshop velvet and lace midi slip dress in black",
+        "price": {
+          "current": {
+            "value": 80.74,
+            "text": "$80.74"
+          },
+          "previous": {
+            "value": 94.99,
+            "text": "$94.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205001512,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131550605,
+        "productType": "Product",
+        "url": "topshop/topshop-velvet-and-lace-midi-slip-dress-in-black/prd/205001500?clr=black&colourWayId=205001512",
+        "imageUrl": "images.asos-media.com/products/topshop-velvet-and-lace-midi-slip-dress-in-black/205001500-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-velvet-and-lace-midi-slip-dress-in-black/205001500-2",
+          "images.asos-media.com/products/topshop-velvet-and-lace-midi-slip-dress-in-black/205001500-3",
+          "images.asos-media.com/products/topshop-velvet-and-lace-midi-slip-dress-in-black/205001500-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205328463,
+        "name": "Topshop cami slip midi dress in abstract green print",
+        "price": {
+          "current": {
+            "value": 107.1,
+            "text": "$107.10"
+          },
+          "previous": {
+            "value": 119,
+            "text": "$119.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "green",
+        "colourWayId": 205328469,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132702448,
+        "productType": "Product",
+        "url": "topshop/topshop-cami-slip-midi-dress-in-abstract-green-print/prd/205328463?clr=green&colourWayId=205328469",
+        "imageUrl": "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-abstract-green-print/205328463-1-green",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-abstract-green-print/205328463-2",
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-abstract-green-print/205328463-3",
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-abstract-green-print/205328463-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205317291,
+        "name": "Topshop cami slip midi dress in metallic silver",
+        "price": {
+          "current": {
+            "value": 103.55,
+            "text": "$103.55"
+          },
+          "previous": {
+            "value": 109,
+            "text": "$109.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "silver",
+        "colourWayId": 205317292,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132675898,
+        "productType": "Product",
+        "url": "topshop/topshop-cami-slip-midi-dress-in-metallic-silver/prd/205317291?clr=silver&colourWayId=205317292",
+        "imageUrl": "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-metallic-silver/205317291-1-silver",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-metallic-silver/205317291-2",
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-metallic-silver/205317291-3",
+          "images.asos-media.com/products/topshop-cami-slip-midi-dress-in-metallic-silver/205317291-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205349199,
+        "name": "Topshop button down v neck maxi dress in blue floral",
+        "price": {
+          "current": {
+            "value": 101.15,
+            "text": "$101.15"
+          },
+          "previous": {
+            "value": 119,
+            "text": "$119.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "pink",
+        "colourWayId": 205349200,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132764998,
+        "productType": "Product",
+        "url": "topshop/topshop-button-down-v-neck-maxi-dress-in-blue-floral/prd/205349199?clr=pink&colourWayId=205349200",
+        "imageUrl": "images.asos-media.com/products/topshop-button-down-v-neck-maxi-dress-in-blue-floral/205349199-1-pink",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-button-down-v-neck-maxi-dress-in-blue-floral/205349199-2",
+          "images.asos-media.com/products/topshop-button-down-v-neck-maxi-dress-in-blue-floral/205349199-3",
+          "images.asos-media.com/products/topshop-button-down-v-neck-maxi-dress-in-blue-floral/205349199-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205135644,
+        "name": "Topshop paneled cami slip dress with velvet and lace in black",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205135645,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132292282,
+        "productType": "Product",
+        "url": "topshop/topshop-paneled-cami-slip-dress-with-velvet-and-lace-in-black/prd/205135644?clr=black&colourWayId=205135645",
+        "imageUrl": "images.asos-media.com/products/topshop-paneled-cami-slip-dress-with-velvet-and-lace-in-black/205135644-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-paneled-cami-slip-dress-with-velvet-and-lace-in-black/205135644-2",
+          "images.asos-media.com/products/topshop-paneled-cami-slip-dress-with-velvet-and-lace-in-black/205135644-3",
+          "images.asos-media.com/products/topshop-paneled-cami-slip-dress-with-velvet-and-lace-in-black/205135644-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": true,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205229078,
+        "name": "Topshop embellished midi studded bandeau dress in black",
+        "price": {
+          "current": {
+            "value": 118.15,
+            "text": "$118.15"
+          },
+          "previous": {
+            "value": 139,
+            "text": "$139.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205229079,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132480924,
+        "productType": "Product",
+        "url": "topshop/topshop-embellished-midi-studded-bandeau-dress-in-black/prd/205229078?clr=black&colourWayId=205229079",
+        "imageUrl": "images.asos-media.com/products/topshop-embellished-midi-studded-bandeau-dress-in-black/205229078-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-embellished-midi-studded-bandeau-dress-in-black/205229078-2",
+          "images.asos-media.com/products/topshop-embellished-midi-studded-bandeau-dress-in-black/205229078-3",
+          "images.asos-media.com/products/topshop-embellished-midi-studded-bandeau-dress-in-black/205229078-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205326341,
+        "name": "Topshop long sleeve tie front mini dress in green print",
+        "price": {
+          "current": {
+            "value": 101.15,
+            "text": "$101.15"
+          },
+          "previous": {
+            "value": 119,
+            "text": "$119.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "green",
+        "colourWayId": 205326352,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132700566,
+        "productType": "Product",
+        "url": "topshop/topshop-long-sleeve-tie-front-mini-dress-in-green-print/prd/205326341?clr=green&colourWayId=205326352",
+        "imageUrl": "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-green-print/205326341-1-green",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-green-print/205326341-2",
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-green-print/205326341-3",
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-green-print/205326341-4"
+        ],
+        "videoUrl": "video.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-green-print/205326341-catwalk-AVS",
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205326341
+              },
+              {
+                "productId": 205326342
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205326342,
+        "name": "Topshop long sleeve tie front mini dress in black",
+        "price": {
+          "current": {
+            "value": 101.15,
+            "text": "$101.15"
+          },
+          "previous": {
+            "value": 119,
+            "text": "$119.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205326343,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132700567,
+        "productType": "Product",
+        "url": "topshop/topshop-long-sleeve-tie-front-mini-dress-in-black/prd/205326342?clr=black&colourWayId=205326343",
+        "imageUrl": "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-black/205326342-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-black/205326342-2",
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-black/205326342-3",
+          "images.asos-media.com/products/topshop-long-sleeve-tie-front-mini-dress-in-black/205326342-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205326341
+              },
+              {
+                "productId": 205326342
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205328458,
+        "name": "Topshop cami mini dress with rose sleeve in black",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205328459,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132702447,
+        "productType": "Product",
+        "url": "topshop/topshop-cami-mini-dress-with-rose-sleeve-in-black/prd/205328458?clr=black&colourWayId=205328459",
+        "imageUrl": "images.asos-media.com/products/topshop-cami-mini-dress-with-rose-sleeve-in-black/205328458-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-cami-mini-dress-with-rose-sleeve-in-black/205328458-2",
+          "images.asos-media.com/products/topshop-cami-mini-dress-with-rose-sleeve-in-black/205328458-3",
+          "images.asos-media.com/products/topshop-cami-mini-dress-with-rose-sleeve-in-black/205328458-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205344580,
+        "name": "Topshop plisse collared midi column dress in gray",
+        "price": {
+          "current": {
+            "value": 63.74,
+            "text": "$63.74"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "gray",
+        "colourWayId": 205344581,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132760048,
+        "productType": "Product",
+        "url": "topshop/topshop-plisse-collared-midi-column-dress-in-gray/prd/205344580?clr=gray&colourWayId=205344581",
+        "imageUrl": "images.asos-media.com/products/topshop-plisse-collared-midi-column-dress-in-gray/205344580-1-grey",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-plisse-collared-midi-column-dress-in-gray/205344580-2",
+          "images.asos-media.com/products/topshop-plisse-collared-midi-column-dress-in-gray/205344580-3",
+          "images.asos-media.com/products/topshop-plisse-collared-midi-column-dress-in-gray/205344580-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205384148,
+        "name": "Topshop lace long sleeve maxi dress in black",
+        "price": {
+          "current": {
+            "value": 72.24,
+            "text": "$72.24"
+          },
+          "previous": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205384149,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132826688,
+        "productType": "Product",
+        "url": "topshop/topshop-lace-long-sleeve-maxi-dress-in-black/prd/205384148?clr=black&colourWayId=205384149",
+        "imageUrl": "images.asos-media.com/products/topshop-lace-long-sleeve-maxi-dress-in-black/205384148-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-lace-long-sleeve-maxi-dress-in-black/205384148-2",
+          "images.asos-media.com/products/topshop-lace-long-sleeve-maxi-dress-in-black/205384148-3",
+          "images.asos-media.com/products/topshop-lace-long-sleeve-maxi-dress-in-black/205384148-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205384148
+              },
+              {
+                "productId": 205384154
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 202905448,
+        "name": "Topshop sequin halter asymmetric midi dress in burgundy",
+        "price": {
+          "current": {
+            "value": 135.15,
+            "text": "$135.15"
+          },
+          "previous": {
+            "value": 159,
+            "text": "$159.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Burgundy",
+        "colourWayId": 202905450,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 118939564,
+        "productType": "Product",
+        "url": "topshop/topshop-sequin-halter-asymmetric-midi-dress-in-burgundy/prd/202905448?clr=burgundy&colourWayId=202905450",
+        "imageUrl": "images.asos-media.com/products/topshop-sequin-halter-asymmetric-midi-dress-in-burgundy/202905448-1-burgundy",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-sequin-halter-asymmetric-midi-dress-in-burgundy/202905448-2",
+          "images.asos-media.com/products/topshop-sequin-halter-asymmetric-midi-dress-in-burgundy/202905448-3",
+          "images.asos-media.com/products/topshop-sequin-halter-asymmetric-midi-dress-in-burgundy/202905448-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203105540,
+        "name": "Topshop velvet PU sweetheart mini dress in black",
+        "price": {
+          "current": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "previous": {
+            "value": 99.99,
+            "text": "$99.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 203105543,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 119612342,
+        "productType": "Product",
+        "url": "topshop/topshop-velvet-pu-sweetheart-mini-dress-in-black/prd/203105540?clr=black&colourWayId=203105543",
+        "imageUrl": "images.asos-media.com/products/topshop-velvet-pu-sweetheart-mini-dress-in-black/203105540-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-velvet-pu-sweetheart-mini-dress-in-black/203105540-2",
+          "images.asos-media.com/products/topshop-velvet-pu-sweetheart-mini-dress-in-black/203105540-3",
+          "images.asos-media.com/products/topshop-velvet-pu-sweetheart-mini-dress-in-black/203105540-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203138902,
+        "name": "Topshop disc sequin midi dress in blue",
+        "price": {
+          "current": {
+            "value": 85,
+            "text": "$85.00"
+          },
+          "previous": {
+            "value": 100,
+            "text": "$100.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BLUE",
+        "colourWayId": 203138924,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 119883390,
+        "productType": "Product",
+        "url": "topshop/topshop-disc-sequin-midi-dress-in-blue/prd/203138902?clr=blue&colourWayId=203138924",
+        "imageUrl": "images.asos-media.com/products/topshop-disc-sequin-midi-dress-in-blue/203138902-1-blue",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-disc-sequin-midi-dress-in-blue/203138902-2",
+          "images.asos-media.com/products/topshop-disc-sequin-midi-dress-in-blue/203138902-3",
+          "images.asos-media.com/products/topshop-disc-sequin-midi-dress-in-blue/203138902-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203138957,
+        "name": "Topshop textured metallic strapless mini dress in silver",
+        "price": {
+          "current": {
+            "value": 56.95,
+            "text": "$56.95"
+          },
+          "previous": {
+            "value": 67,
+            "text": "$67.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "SILVER",
+        "colourWayId": 203138964,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 119883388,
+        "productType": "Product",
+        "url": "topshop/topshop-textured-metallic-strapless-mini-dress-in-silver/prd/203138957?clr=silver&colourWayId=203138964",
+        "imageUrl": "images.asos-media.com/products/topshop-textured-metallic-strapless-mini-dress-in-silver/203138957-1-silver",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-textured-metallic-strapless-mini-dress-in-silver/203138957-2",
+          "images.asos-media.com/products/topshop-textured-metallic-strapless-mini-dress-in-silver/203138957-3",
+          "images.asos-media.com/products/topshop-textured-metallic-strapless-mini-dress-in-silver/203138957-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203181296,
+        "name": "Tophshop embellished one shoulder midi dress in black",
+        "price": {
+          "current": {
+            "value": 228.65,
+            "text": "$228.65"
+          },
+          "previous": {
+            "value": 269,
+            "text": "$269.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 203181307,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 119971865,
+        "productType": "Product",
+        "url": "topshop/tophshop-embellished-one-shoulder-midi-dress-in-black/prd/203181296?clr=black&colourWayId=203181307",
+        "imageUrl": "images.asos-media.com/products/tophshop-embellished-one-shoulder-midi-dress-in-black/203181296-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/tophshop-embellished-one-shoulder-midi-dress-in-black/203181296-2",
+          "images.asos-media.com/products/tophshop-embellished-one-shoulder-midi-dress-in-black/203181296-3",
+          "images.asos-media.com/products/tophshop-embellished-one-shoulder-midi-dress-in-black/203181296-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203199541,
+        "name": "Topshop body contour sequin mini slip dress in black and silver",
+        "price": {
+          "current": {
+            "value": 94.35,
+            "text": "$94.35"
+          },
+          "previous": {
+            "value": 111,
+            "text": "$111.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black & silver",
+        "colourWayId": 203199542,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 120044244,
+        "productType": "Product",
+        "url": "topshop/topshop-body-contour-sequin-mini-slip-dress-in-black-and-silver/prd/203199541?clr=black-silver&colourWayId=203199542",
+        "imageUrl": "images.asos-media.com/products/topshop-body-contour-sequin-mini-slip-dress-in-black-and-silver/203199541-1-blacksilver",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-body-contour-sequin-mini-slip-dress-in-black-and-silver/203199541-2",
+          "images.asos-media.com/products/topshop-body-contour-sequin-mini-slip-dress-in-black-and-silver/203199541-3",
+          "images.asos-media.com/products/topshop-body-contour-sequin-mini-slip-dress-in-black-and-silver/203199541-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203199744,
+        "name": "Topshop lace patchwork midi dress in multi",
+        "price": {
+          "current": {
+            "value": 92.65,
+            "text": "$92.65"
+          },
+          "previous": {
+            "value": 109,
+            "text": "$109.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 203199745,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 120044420,
+        "productType": "Product",
+        "url": "topshop/topshop-lace-patchwork-midi-dress-in-multi/prd/203199744?clr=multi&colourWayId=203199745",
+        "imageUrl": "images.asos-media.com/products/topshop-lace-patchwork-midi-dress-in-multi/203199744-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-lace-patchwork-midi-dress-in-multi/203199744-2",
+          "images.asos-media.com/products/topshop-lace-patchwork-midi-dress-in-multi/203199744-3",
+          "images.asos-media.com/products/topshop-lace-patchwork-midi-dress-in-multi/203199744-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203275532,
+        "name": "Topshop crushed velvet bralette mesh midi dress in black",
+        "price": {
+          "current": {
+            "value": 72.24,
+            "text": "$72.24"
+          },
+          "previous": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 203275554,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 120520961,
+        "productType": "Product",
+        "url": "topshop/topshop-crushed-velvet-bralette-mesh-midi-dress-in-black/prd/203275532?clr=black&colourWayId=203275554",
+        "imageUrl": "images.asos-media.com/products/topshop-crushed-velvet-bralette-mesh-midi-dress-in-black/203275532-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-crushed-velvet-bralette-mesh-midi-dress-in-black/203275532-2",
+          "images.asos-media.com/products/topshop-crushed-velvet-bralette-mesh-midi-dress-in-black/203275532-3",
+          "images.asos-media.com/products/topshop-crushed-velvet-bralette-mesh-midi-dress-in-black/203275532-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 203504934,
+        "name": "Topshop bronze long sleeve asymmetric maxi dress",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BRONZE",
+        "colourWayId": 203504935,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 121193429,
+        "productType": "Product",
+        "url": "topshop/topshop-bronze-long-sleeve-asymmetric-maxi-dress/prd/203504934?clr=bronze&colourWayId=203504935",
+        "imageUrl": "images.asos-media.com/products/topshop-bronze-long-sleeve-asymmetric-maxi-dress/203504934-1-bronze",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-bronze-long-sleeve-asymmetric-maxi-dress/203504934-2",
+          "images.asos-media.com/products/topshop-bronze-long-sleeve-asymmetric-maxi-dress/203504934-3",
+          "images.asos-media.com/products/topshop-bronze-long-sleeve-asymmetric-maxi-dress/203504934-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204012008,
+        "name": "Topshop PU asymmetric cut-out detail midi dress in black",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 204012009,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 124198432,
+        "productType": "Product",
+        "url": "topshop/topshop-pu-asymmetric-cut-out-detail-midi-dress-in-black/prd/204012008?clr=black&colourWayId=204012009",
+        "imageUrl": "images.asos-media.com/products/topshop-pu-asymmetric-cut-out-detail-midi-dress-in-black/204012008-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-pu-asymmetric-cut-out-detail-midi-dress-in-black/204012008-2",
+          "images.asos-media.com/products/topshop-pu-asymmetric-cut-out-detail-midi-dress-in-black/204012008-3",
+          "images.asos-media.com/products/topshop-pu-asymmetric-cut-out-detail-midi-dress-in-black/204012008-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204776870,
+        "name": "Topshop jersey ladder detail long sleeve maxi dress in black",
+        "price": {
+          "current": {
+            "value": 80.74,
+            "text": "$80.74"
+          },
+          "previous": {
+            "value": 94.99,
+            "text": "$94.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 204776875,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 129260636,
+        "productType": "Product",
+        "url": "topshop/topshop-jersey-ladder-detail-long-sleeve-maxi-dress-in-black/prd/204776870?clr=black&colourWayId=204776875",
+        "imageUrl": "images.asos-media.com/products/topshop-jersey-ladder-detail-long-sleeve-maxi-dress-in-black/204776870-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-jersey-ladder-detail-long-sleeve-maxi-dress-in-black/204776870-2",
+          "images.asos-media.com/products/topshop-jersey-ladder-detail-long-sleeve-maxi-dress-in-black/204776870-3",
+          "images.asos-media.com/products/topshop-jersey-ladder-detail-long-sleeve-maxi-dress-in-black/204776870-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204872004,
+        "name": "Topshop jersey ruched front midi dress in black",
+        "price": {
+          "current": {
+            "value": 80.74,
+            "text": "$80.74"
+          },
+          "previous": {
+            "value": 94.99,
+            "text": "$94.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 204872010,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 130611155,
+        "productType": "Product",
+        "url": "topshop/topshop-jersey-ruched-front-midi-dress-in-black/prd/204872004?clr=black&colourWayId=204872010",
+        "imageUrl": "images.asos-media.com/products/topshop-jersey-ruched-front-midi-dress-in-black/204872004-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-jersey-ruched-front-midi-dress-in-black/204872004-2",
+          "images.asos-media.com/products/topshop-jersey-ruched-front-midi-dress-in-black/204872004-3",
+          "images.asos-media.com/products/topshop-jersey-ruched-front-midi-dress-in-black/204872004-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205326416,
+        "name": "Topshop lea premium column maxi dress in brown animal print",
+        "price": {
+          "current": {
+            "value": 85,
+            "text": "$85.00"
+          },
+          "previous": {
+            "value": 100,
+            "text": "$100.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BROWN",
+        "colourWayId": 205326417,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132700620,
+        "productType": "Product",
+        "url": "topshop/topshop-lea-premium-column-maxi-dress-in-brown-animal-print/prd/205326416?clr=brown&colourWayId=205326417",
+        "imageUrl": "images.asos-media.com/products/topshop-lea-premium-column-maxi-dress-in-brown-animal-print/205326416-1-brown",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-lea-premium-column-maxi-dress-in-brown-animal-print/205326416-2",
+          "images.asos-media.com/products/topshop-lea-premium-column-maxi-dress-in-brown-animal-print/205326416-3",
+          "images.asos-media.com/products/topshop-lea-premium-column-maxi-dress-in-brown-animal-print/205326416-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205326406
+              },
+              {
+                "productId": 205326416
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205324403,
+        "name": "Topshop ruched front long sleeve printed midi dress in mono floral print",
+        "price": {
+          "current": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "previous": {
+            "value": 99.99,
+            "text": "$99.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "MONO",
+        "colourWayId": 205324405,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132687839,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-long-sleeve-printed-midi-dress-in-mono-floral-print/prd/205324403?clr=mono&colourWayId=205324405",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-long-sleeve-printed-midi-dress-in-mono-floral-print/205324403-1-mono",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-long-sleeve-printed-midi-dress-in-mono-floral-print/205324403-2",
+          "images.asos-media.com/products/topshop-ruched-front-long-sleeve-printed-midi-dress-in-mono-floral-print/205324403-3",
+          "images.asos-media.com/products/topshop-ruched-front-long-sleeve-printed-midi-dress-in-mono-floral-print/205324403-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205324388
+              },
+              {
+                "productId": 205324403
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205030058,
+        "name": "Topshop ruched front midi dress in red and black gingham",
+        "price": {
+          "current": {
+            "value": 63.74,
+            "text": "$63.74"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "RED",
+        "colourWayId": 205030059,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131740218,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-midi-dress-in-red-and-black-gingham/prd/205030058?clr=red&colourWayId=205030059",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-red-and-black-gingham/205030058-1-red",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-red-and-black-gingham/205030058-2",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-red-and-black-gingham/205030058-3",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-red-and-black-gingham/205030058-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205030058
+              },
+              {
+                "productId": 205030048
+              },
+              {
+                "productId": 205076905
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205061829,
+        "name": "Topshop v neck brushed check mini shirt dress in blue check",
+        "price": {
+          "current": {
+            "value": 59.99,
+            "text": "$59.99"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "BLUE",
+        "colourWayId": 205061831,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132093848,
+        "productType": "Product",
+        "url": "topshop/topshop-v-neck-brushed-check-mini-shirt-dress-in-blue-check/prd/205061829?clr=blue&colourWayId=205061831",
+        "imageUrl": "images.asos-media.com/products/topshop-v-neck-brushed-check-mini-shirt-dress-in-blue-check/205061829-1-blue",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-v-neck-brushed-check-mini-shirt-dress-in-blue-check/205061829-2",
+          "images.asos-media.com/products/topshop-v-neck-brushed-check-mini-shirt-dress-in-blue-check/205061829-3",
+          "images.asos-media.com/products/topshop-v-neck-brushed-check-mini-shirt-dress-in-blue-check/205061829-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205061829
+              },
+              {
+                "productId": 205061832
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205001490,
+        "name": "Topshop velvet fabric mix shift mini dress with embellishment in black",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205001498,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131550606,
+        "productType": "Product",
+        "url": "topshop/topshop-velvet-fabric-mix-shift-mini-dress-with-embellishment-in-black/prd/205001490?clr=black&colourWayId=205001498",
+        "imageUrl": "images.asos-media.com/products/topshop-velvet-fabric-mix-shift-mini-dress-with-embellishment-in-black/205001490-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-velvet-fabric-mix-shift-mini-dress-with-embellishment-in-black/205001490-2",
+          "images.asos-media.com/products/topshop-velvet-fabric-mix-shift-mini-dress-with-embellishment-in-black/205001490-3",
+          "images.asos-media.com/products/topshop-velvet-fabric-mix-shift-mini-dress-with-embellishment-in-black/205001490-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205008920,
+        "name": "Topshop sequin cami midi slip dress in beige",
+        "price": {
+          "current": {
+            "value": 80.74,
+            "text": "$80.74"
+          },
+          "previous": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "NUDE",
+        "colourWayId": 205008921,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131620149,
+        "productType": "Product",
+        "url": "topshop/topshop-sequin-cami-midi-slip-dress-in-beige/prd/205008920?clr=nude&colourWayId=205008921",
+        "imageUrl": "images.asos-media.com/products/topshop-sequin-cami-midi-slip-dress-in-beige/205008920-1-nude",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-sequin-cami-midi-slip-dress-in-beige/205008920-2",
+          "images.asos-media.com/products/topshop-sequin-cami-midi-slip-dress-in-beige/205008920-3",
+          "images.asos-media.com/products/topshop-sequin-cami-midi-slip-dress-in-beige/205008920-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205008910
+              },
+              {
+                "productId": 205008920
+              },
+              {
+                "productId": 205008930
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205008951,
+        "name": "Topshop plunge mini dress with chain trim in black",
+        "price": {
+          "current": {
+            "value": 80.74,
+            "text": "$80.74"
+          },
+          "previous": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205008952,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131620150,
+        "productType": "Product",
+        "url": "topshop/topshop-plunge-mini-dress-with-chain-trim-in-black/prd/205008951?clr=black&colourWayId=205008952",
+        "imageUrl": "images.asos-media.com/products/topshop-plunge-mini-dress-with-chain-trim-in-black/205008951-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-plunge-mini-dress-with-chain-trim-in-black/205008951-2",
+          "images.asos-media.com/products/topshop-plunge-mini-dress-with-chain-trim-in-black/205008951-3",
+          "images.asos-media.com/products/topshop-plunge-mini-dress-with-chain-trim-in-black/205008951-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205020811,
+        "name": "Topshop printed jersey mesh midi in bold rose print.",
+        "price": {
+          "current": {
+            "value": 66.49,
+            "text": "$66.49"
+          },
+          "previous": {
+            "value": 69.99,
+            "text": "$69.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 205020813,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131704741,
+        "productType": "Product",
+        "url": "topshop/topshop-printed-jersey-mesh-midi-in-bold-rose-print/prd/205020811?clr=multi&colourWayId=205020813",
+        "imageUrl": "images.asos-media.com/products/topshop-printed-jersey-mesh-midi-in-bold-rose-print/205020811-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-printed-jersey-mesh-midi-in-bold-rose-print/205020811-2",
+          "images.asos-media.com/products/topshop-printed-jersey-mesh-midi-in-bold-rose-print/205020811-3",
+          "images.asos-media.com/products/topshop-printed-jersey-mesh-midi-in-bold-rose-print/205020811-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205020801
+              },
+              {
+                "productId": 205020811
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205021657,
+        "name": "Topshop button down mini shirt dress in green and black check",
+        "price": {
+          "current": {
+            "value": 63.74,
+            "text": "$63.74"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 205021658,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131710676,
+        "productType": "Product",
+        "url": "topshop/topshop-button-down-mini-shirt-dress-in-green-and-black-check/prd/205021657?clr=multi&colourWayId=205021658",
+        "imageUrl": "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-green-and-black-check/205021657-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-green-and-black-check/205021657-2",
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-green-and-black-check/205021657-3",
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-green-and-black-check/205021657-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205021657
+              },
+              {
+                "productId": 205021664
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205021664,
+        "name": "Topshop button down mini shirt dress in mono check",
+        "price": {
+          "current": {
+            "value": 55.99,
+            "text": "$55.99"
+          },
+          "previous": {
+            "value": 69.99,
+            "text": "$69.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "MONO",
+        "colourWayId": 205021666,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131710677,
+        "productType": "Product",
+        "url": "topshop/topshop-button-down-mini-shirt-dress-in-mono-check/prd/205021664?clr=mono&colourWayId=205021666",
+        "imageUrl": "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-mono-check/205021664-1-mono",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-mono-check/205021664-2",
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-mono-check/205021664-3",
+          "images.asos-media.com/products/topshop-button-down-mini-shirt-dress-in-mono-check/205021664-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205021657
+              },
+              {
+                "productId": 205021664
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205021680,
+        "name": "Topshop V-neck lace mini tea dress in red floral",
+        "price": {
+          "current": {
+            "value": 67.49,
+            "text": "$67.49"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "RED",
+        "colourWayId": 205021682,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131710674,
+        "productType": "Product",
+        "url": "topshop/topshop-v-neck-lace-mini-tea-dress-in-red-floral/prd/205021680?clr=red&colourWayId=205021682",
+        "imageUrl": "images.asos-media.com/products/topshop-v-neck-lace-mini-tea-dress-in-red-floral/205021680-1-red",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-v-neck-lace-mini-tea-dress-in-red-floral/205021680-2",
+          "images.asos-media.com/products/topshop-v-neck-lace-mini-tea-dress-in-red-floral/205021680-3",
+          "images.asos-media.com/products/topshop-v-neck-lace-mini-tea-dress-in-red-floral/205021680-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205021700,
+        "name": "Topshop v neck lace midi tea dress in orange animal print",
+        "price": {
+          "current": {
+            "value": 80.75,
+            "text": "$80.75"
+          },
+          "previous": {
+            "value": 95,
+            "text": "$95.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "ORANGE",
+        "colourWayId": 205021702,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131710675,
+        "productType": "Product",
+        "url": "topshop/topshop-v-neck-lace-midi-tea-dress-in-orange-animal-print/prd/205021700?clr=orange&colourWayId=205021702",
+        "imageUrl": "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-orange-animal-print/205021700-1-orange",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-orange-animal-print/205021700-2",
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-orange-animal-print/205021700-3",
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-orange-animal-print/205021700-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205030048,
+        "name": "Topshop ruched front midi dress in black",
+        "price": {
+          "current": {
+            "value": 63.74,
+            "text": "$63.74"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205030049,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131740213,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-midi-dress-in-black/prd/205030048?clr=black&colourWayId=205030049",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-black/205030048-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-black/205030048-2",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-black/205030048-3",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-black/205030048-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205030058
+              },
+              {
+                "productId": 205030048
+              },
+              {
+                "productId": 205076905
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205030100,
+        "name": "Topshop V-neck lace midi tea dress in black",
+        "price": {
+          "current": {
+            "value": 92.65,
+            "text": "$92.65"
+          },
+          "previous": {
+            "value": 109,
+            "text": "$109.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205030105,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131740216,
+        "productType": "Product",
+        "url": "topshop/topshop-v-neck-lace-midi-tea-dress-in-black/prd/205030100?clr=black&colourWayId=205030105",
+        "imageUrl": "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-black/205030100-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-black/205030100-2",
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-black/205030100-3",
+          "images.asos-media.com/products/topshop-v-neck-lace-midi-tea-dress-in-black/205030100-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205076905,
+        "name": "Topshop ruched front midi dress in lilac floral print",
+        "price": {
+          "current": {
+            "value": 72.24,
+            "text": "$72.24"
+          },
+          "previous": {
+            "value": 84.99,
+            "text": "$84.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "pink",
+        "colourWayId": 205076906,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132174202,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-midi-dress-in-lilac-floral-print/prd/205076905?clr=pink&colourWayId=205076906",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-lilac-floral-print/205076905-1-pink",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-lilac-floral-print/205076905-2",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-lilac-floral-print/205076905-3",
+          "images.asos-media.com/products/topshop-ruched-front-midi-dress-in-lilac-floral-print/205076905-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 205030058
+              },
+              {
+                "productId": 205030048
+              },
+              {
+                "productId": 205076905
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205137442,
+        "name": "Topshop metallic fringe maxi dress in gold and black",
+        "price": {
+          "current": {
+            "value": 161.1,
+            "text": "$161.10"
+          },
+          "previous": {
+            "value": 179,
+            "text": "$179.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205137443,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132298907,
+        "productType": "Product",
+        "url": "topshop/topshop-metallic-fringe-maxi-dress-in-gold-and-black/prd/205137442?clr=black&colourWayId=205137443",
+        "imageUrl": "images.asos-media.com/products/topshop-metallic-fringe-maxi-dress-in-gold-and-black/205137442-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-metallic-fringe-maxi-dress-in-gold-and-black/205137442-2",
+          "images.asos-media.com/products/topshop-metallic-fringe-maxi-dress-in-gold-and-black/205137442-3",
+          "images.asos-media.com/products/topshop-metallic-fringe-maxi-dress-in-gold-and-black/205137442-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205137486,
+        "name": "Topshop mini bandeau chiffon dress with lace underlay in black",
+        "price": {
+          "current": {
+            "value": 75.99,
+            "text": "$75.99"
+          },
+          "previous": {
+            "value": 94.99,
+            "text": "$94.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205137487,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132298950,
+        "productType": "Product",
+        "url": "topshop/topshop-mini-bandeau-chiffon-dress-with-lace-underlay-in-black/prd/205137486?clr=black&colourWayId=205137487",
+        "imageUrl": "images.asos-media.com/products/topshop-mini-bandeau-chiffon-dress-with-lace-underlay-in-black/205137486-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-mini-bandeau-chiffon-dress-with-lace-underlay-in-black/205137486-2",
+          "images.asos-media.com/products/topshop-mini-bandeau-chiffon-dress-with-lace-underlay-in-black/205137486-3",
+          "images.asos-media.com/products/topshop-mini-bandeau-chiffon-dress-with-lace-underlay-in-black/205137486-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205260617,
+        "name": "Topshop utility contrast top stitch shirt dress in black",
+        "price": {
+          "current": {
+            "value": 85.49,
+            "text": "$85.49"
+          },
+          "previous": {
+            "value": 94.99,
+            "text": "$94.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205260618,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132546247,
+        "productType": "Product",
+        "url": "topshop/topshop-utility-contrast-top-stitch-shirt-dress-in-black/prd/205260617?clr=black&colourWayId=205260618",
+        "imageUrl": "images.asos-media.com/products/topshop-utility-contrast-top-stitch-shirt-dress-in-black/205260617-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-utility-contrast-top-stitch-shirt-dress-in-black/205260617-2",
+          "images.asos-media.com/products/topshop-utility-contrast-top-stitch-shirt-dress-in-black/205260617-3",
+          "images.asos-media.com/products/topshop-utility-contrast-top-stitch-shirt-dress-in-black/205260617-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205344350,
+        "name": "Topshop ruched front mini tea dress in black",
+        "price": {
+          "current": {
+            "value": 63.74,
+            "text": "$63.74"
+          },
+          "previous": {
+            "value": 74.99,
+            "text": "$74.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Black",
+        "colourWayId": 205344351,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132759846,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-mini-tea-dress-in-black/prd/205344350?clr=black&colourWayId=205344351",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-black/205344350-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-black/205344350-2",
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-black/205344350-3",
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-black/205344350-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 204820418
+              },
+              {
+                "productId": 205344350
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205351449,
+        "name": "Topshop bold floral placement print midi dress in blue and black",
+        "price": {
+          "current": {
+            "value": 66.49,
+            "text": "$66.49"
+          },
+          "previous": {
+            "value": 69.99,
+            "text": "$69.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 205351451,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132767594,
+        "productType": "Product",
+        "url": "topshop/topshop-bold-floral-placement-print-midi-dress-in-blue-and-black/prd/205351449?clr=multi&colourWayId=205351451",
+        "imageUrl": "images.asos-media.com/products/topshop-bold-floral-placement-print-midi-dress-in-blue-and-black/205351449-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-midi-dress-in-blue-and-black/205351449-2",
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-midi-dress-in-blue-and-black/205351449-3",
+          "images.asos-media.com/products/topshop-bold-floral-placement-print-midi-dress-in-blue-and-black/205351449-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205413811,
+        "name": "Topshop gold lame tie back midi slip in gold",
+        "price": {
+          "current": {
+            "value": 109.65,
+            "text": "$109.65"
+          },
+          "previous": {
+            "value": 129,
+            "text": "$129.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "gold",
+        "colourWayId": 205413815,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132886322,
+        "productType": "Product",
+        "url": "topshop/topshop-gold-lame-tie-back-midi-slip-in-gold/prd/205413811?clr=gold&colourWayId=205413815",
+        "imageUrl": "images.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-1-gold",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-2",
+          "images.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-3",
+          "images.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-4",
+          "images.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-5"
+        ],
+        "videoUrl": "video.asos-media.com/products/topshop-gold-lame-tie-back-midi-slip-in-gold/205413811-catwalk-AVS",
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 204820418,
+        "name": "Topshop ruched front mini tea dress in mono animal print",
+        "price": {
+          "current": {
+            "value": 60.3,
+            "text": "$60.30"
+          },
+          "previous": {
+            "value": 67,
+            "text": "$67.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "GREEN",
+        "colourWayId": 204820421,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 130294005,
+        "productType": "Product",
+        "url": "topshop/topshop-ruched-front-mini-tea-dress-in-mono-animal-print/prd/204820418?clr=green&colourWayId=204820421",
+        "imageUrl": "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-mono-animal-print/204820418-1-green",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-mono-animal-print/204820418-2",
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-mono-animal-print/204820418-3",
+          "images.asos-media.com/products/topshop-ruched-front-mini-tea-dress-in-mono-animal-print/204820418-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [
+          {
+            "products": [
+              {
+                "productId": 204820418
+              },
+              {
+                "productId": 205344350
+              }
+            ],
+            "type": "SupplierColour"
+          }
+        ],
+        "advertisement": null
+      },
+      {
+        "id": 205053187,
+        "name": "Topshop cowl neck maxi slip dress in metallic animal print",
+        "price": {
+          "current": {
+            "value": 49.99,
+            "text": "$49.99"
+          },
+          "previous": {
+            "value": 99.99,
+            "text": "$99.99"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "Multi",
+        "colourWayId": 205053223,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 131979077,
+        "productType": "Product",
+        "url": "topshop/topshop-cowl-neck-maxi-slip-dress-in-metallic-animal-print/prd/205053187?clr=multi&colourWayId=205053223",
+        "imageUrl": "images.asos-media.com/products/topshop-cowl-neck-maxi-slip-dress-in-metallic-animal-print/205053187-1-multi",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-cowl-neck-maxi-slip-dress-in-metallic-animal-print/205053187-2",
+          "images.asos-media.com/products/topshop-cowl-neck-maxi-slip-dress-in-metallic-animal-print/205053187-3",
+          "images.asos-media.com/products/topshop-cowl-neck-maxi-slip-dress-in-metallic-animal-print/205053187-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      },
+      {
+        "id": 205135674,
+        "name": "Topshop ruffle and lace detail slip dress in black",
+        "price": {
+          "current": {
+            "value": 98.1,
+            "text": "$98.10"
+          },
+          "previous": {
+            "value": 109,
+            "text": "$109.00"
+          },
+          "rrp": {
+            "value": null,
+            "text": ""
+          },
+          "isMarkedDown": true,
+          "isOutletPrice": false,
+          "currency": "USD"
+        },
+        "colour": "black",
+        "colourWayId": 205135675,
+        "brandName": "Topshop",
+        "hasVariantColours": false,
+        "hasMultiplePrices": false,
+        "groupId": null,
+        "productCode": 132292280,
+        "productType": "Product",
+        "url": "topshop/topshop-ruffle-and-lace-detail-slip-dress-in-black/prd/205135674?clr=black&colourWayId=205135675",
+        "imageUrl": "images.asos-media.com/products/topshop-ruffle-and-lace-detail-slip-dress-in-black/205135674-1-black",
+        "additionalImageUrls": [
+          "images.asos-media.com/products/topshop-ruffle-and-lace-detail-slip-dress-in-black/205135674-2",
+          "images.asos-media.com/products/topshop-ruffle-and-lace-detail-slip-dress-in-black/205135674-3",
+          "images.asos-media.com/products/topshop-ruffle-and-lace-detail-slip-dress-in-black/205135674-4"
+        ],
+        "videoUrl": null,
+        "showVideo": false,
+        "isSellingFast": false,
+        "sponsoredCampaignId": null,
+        "facetGroupings": [],
+        "advertisement": null
+      }
+    ],
+    "facets": [
+      {
+        "id": "attribute_1046",
+        "name": "Style",
+        "facetValues": [
+          {
+            "count": 193,
+            "id": "8364",
+            "name": "Long Sleeve",
+            "isSelected": false
+          },
+          {
+            "count": 157,
+            "id": "8300",
+            "name": "Slip",
+            "isSelected": false
+          },
+          {
+            "count": 130,
+            "id": "72004",
+            "name": "Cut out",
+            "isSelected": false
+          },
+          {
+            "count": 99,
+            "id": "72016",
+            "name": "Split",
+            "isSelected": false
+          },
+          {
+            "count": 97,
+            "id": "8318",
+            "name": "Tea",
+            "isSelected": false
+          },
+          {
+            "count": 78,
+            "id": "8314",
+            "name": "A Line",
+            "isSelected": false
+          },
+          {
+            "count": 61,
+            "id": "8295",
+            "name": "Shirt",
+            "isSelected": false
+          },
+          {
+            "count": 60,
+            "id": "8334",
+            "name": "Bodycon",
+            "isSelected": false
+          },
+          {
+            "count": 57,
+            "id": "61468",
+            "name": "Other",
+            "isSelected": false
+          },
+          {
+            "count": 42,
+            "id": "72017",
+            "name": "Tiered",
+            "isSelected": false
+          },
+          {
+            "count": 40,
+            "id": "61462",
+            "name": "Smock Dresses",
+            "isSelected": false
+          },
+          {
+            "count": 40,
+            "id": "62000",
+            "name": "Backless",
+            "isSelected": false
+          },
+          {
+            "count": 40,
+            "id": "8332",
+            "name": "Wrap",
+            "isSelected": false
+          },
+          {
+            "count": 34,
+            "id": "10799",
+            "name": "Sweater Dress",
+            "isSelected": false
+          },
+          {
+            "count": 34,
+            "id": "8307",
+            "name": "Bandeau",
+            "isSelected": false
+          },
+          {
+            "count": 34,
+            "id": "8311",
+            "name": "Swing",
+            "isSelected": false
+          },
+          {
+            "count": 20,
+            "id": "72011",
+            "name": "One Shoulder",
+            "isSelected": false
+          },
+          {
+            "count": 16,
+            "id": "8294",
+            "name": "Shift",
+            "isSelected": false
+          },
+          {
+            "count": 13,
+            "id": "8299",
+            "name": "Skater",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "72006",
+            "name": "High-low",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "8315",
+            "name": "Bardot",
+            "isSelected": false
+          },
+          {
+            "count": 11,
+            "id": "72001",
+            "name": "Bias cut",
+            "isSelected": false
+          },
+          {
+            "count": 11,
+            "id": "72002",
+            "name": "Blazer Dress",
+            "isSelected": false
+          },
+          {
+            "count": 10,
+            "id": "8349",
+            "name": "Off Shoulder",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "8352",
+            "name": "Denim",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "72018",
+            "name": "Trapeze",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "8301",
+            "name": "T-Shirt",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "8330",
+            "name": "Pinafore",
+            "isSelected": false
+          },
+          {
+            "count": 6,
+            "id": "8336",
+            "name": "Cold Shoulder",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "10798",
+            "name": "Pencil Dress",
+            "isSelected": false
+          },
+          {
+            "count": 5,
+            "id": "72005",
+            "name": "Fishtail",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "10806",
+            "name": "Overall Dress",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "brand",
+        "name": "Brand",
+        "facetValues": [
+          {
+            "count": 923,
+            "id": "16305",
+            "name": "Topshop",
+            "isSelected": false
+          },
+          {
+            "count": 40,
+            "id": "20600",
+            "name": "Topshop Curve",
+            "isSelected": false
+          },
+          {
+            "count": 55,
+            "id": "16307",
+            "name": "Topshop Petite",
+            "isSelected": false
+          },
+          {
+            "count": 25,
+            "id": "16308",
+            "name": "Topshop Tall",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "base_colour",
+        "name": "Color",
+        "facetValues": [
+          {
+            "count": 281,
+            "id": "17",
+            "name": "Multi",
+            "isSelected": false
+          },
+          {
+            "count": 260,
+            "id": "4",
+            "name": "Black",
+            "isSelected": false
+          },
+          {
+            "count": 126,
+            "id": "2",
+            "name": "Green",
+            "isSelected": false
+          },
+          {
+            "count": 75,
+            "id": "3",
+            "name": "Blue",
+            "isSelected": false
+          },
+          {
+            "count": 52,
+            "id": "5",
+            "name": "White",
+            "isSelected": false
+          },
+          {
+            "count": 50,
+            "id": "1",
+            "name": "Red",
+            "isSelected": false
+          },
+          {
+            "count": 47,
+            "id": "9",
+            "name": "Pink",
+            "isSelected": false
+          },
+          {
+            "count": 32,
+            "id": "10",
+            "name": "Brown",
+            "isSelected": false
+          },
+          {
+            "count": 24,
+            "id": "7",
+            "name": "Orange",
+            "isSelected": false
+          },
+          {
+            "count": 23,
+            "id": "16",
+            "name": "Gray",
+            "isSelected": false
+          },
+          {
+            "count": 18,
+            "id": "8",
+            "name": "Purple",
+            "isSelected": false
+          },
+          {
+            "count": 17,
+            "id": "12",
+            "name": "Silver",
+            "isSelected": false
+          },
+          {
+            "count": 15,
+            "id": "37",
+            "name": "Neutral",
+            "isSelected": false
+          },
+          {
+            "count": 10,
+            "id": "6",
+            "name": "Yellow",
+            "isSelected": false
+          },
+          {
+            "count": 8,
+            "id": "11",
+            "name": "Gold",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "33",
+            "name": "Navy",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "14",
+            "name": "Copper",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "21",
+            "name": "No color",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "attribute_10155",
+        "name": "Body Fit",
+        "facetValues": [
+          {
+            "count": 919,
+            "id": "6764",
+            "name": "Main Collection",
+            "isSelected": false
+          },
+          {
+            "count": 49,
+            "id": "6403",
+            "name": "Petite",
+            "isSelected": false
+          },
+          {
+            "count": 47,
+            "id": "7699",
+            "name": "Plus Size",
+            "isSelected": false
+          },
+          {
+            "count": 28,
+            "id": "6399",
+            "name": "Tall",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "size",
+        "name": "Size",
+        "facetValues": [
+          {
+            "count": 173,
+            "id": "5179",
+            "name": "XS",
+            "isSelected": false
+          },
+          {
+            "count": 227,
+            "id": "4421",
+            "name": "S",
+            "isSelected": false
+          },
+          {
+            "count": 214,
+            "id": "4409",
+            "name": "M",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "5971",
+            "name": "M-L",
+            "isSelected": false
+          },
+          {
+            "count": 207,
+            "id": "5155",
+            "name": "L",
+            "isSelected": false
+          },
+          {
+            "count": 3,
+            "id": "5983",
+            "name": "S-M",
+            "isSelected": false
+          },
+          {
+            "count": 88,
+            "id": "5167",
+            "name": "XL",
+            "isSelected": false
+          },
+          {
+            "count": 18,
+            "id": "5119",
+            "name": "2XL",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "5143",
+            "name": "3XL",
+            "isSelected": false
+          },
+          {
+            "count": 240,
+            "id": "74",
+            "name": "US 0",
+            "isSelected": false
+          },
+          {
+            "count": 496,
+            "id": "86",
+            "name": "US 2",
+            "isSelected": false
+          },
+          {
+            "count": 499,
+            "id": "98",
+            "name": "US 4",
+            "isSelected": false
+          },
+          {
+            "count": 468,
+            "id": "14",
+            "name": "US 6",
+            "isSelected": false
+          },
+          {
+            "count": 415,
+            "id": "26",
+            "name": "US 8",
+            "isSelected": false
+          },
+          {
+            "count": 356,
+            "id": "38",
+            "name": "US 10",
+            "isSelected": false
+          },
+          {
+            "count": 322,
+            "id": "50",
+            "name": "US 12",
+            "isSelected": false
+          },
+          {
+            "count": 223,
+            "id": "62",
+            "name": "US 14",
+            "isSelected": false
+          },
+          {
+            "count": 11,
+            "id": "144",
+            "name": "US 16",
+            "isSelected": false
+          },
+          {
+            "count": 12,
+            "id": "165",
+            "name": "US 18",
+            "isSelected": false
+          },
+          {
+            "count": 7,
+            "id": "174",
+            "name": "US 20",
+            "isSelected": false
+          },
+          {
+            "count": 4,
+            "id": "186",
+            "name": "US 22",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "16246",
+            "name": "Chest 36",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "16258",
+            "name": "Chest 38",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "6688",
+            "name": "XS-S",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "discount_band",
+        "name": "Discount %",
+        "facetValues": [
+          {
+            "count": 344,
+            "id": "6",
+            "name": "60% or more",
+            "isSelected": false
+          },
+          {
+            "count": 323,
+            "id": "5",
+            "name": "50% - 60%",
+            "isSelected": false
+          },
+          {
+            "count": 23,
+            "id": "4",
+            "name": "40% - 50%",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "2",
+            "name": "20% - 30%",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Single-Column",
+        "facetType": "TextMultiSelect",
+        "hasSelectedValues": false
+      },
+      {
+        "id": "currentprice",
+        "name": "Price Range",
+        "facetValues": [
+          {
+            "count": 1,
+            "id": "9.28",
+            "name": "9.28",
+            "isSelected": false
+          },
+          {
+            "count": 1,
+            "id": "429.0",
+            "name": "429.0",
+            "isSelected": false
+          }
+        ],
+        "displayStyle": "Price-Slider",
+        "facetType": "Range",
+        "hasSelectedValues": false
+      }
+    ],
+    "diagnostics": {
+      "requestId": "94415268-7d00-475d-8993-4d4ab40b7f5f",
+      "processingTime": 160,
+      "queryTime": 91,
+      "recommendationsEnabled": false,
+      "recommendationsAnalytics": {
+        "personalisationStatus": 5,
+        "numberOfItems": 0,
+        "numberOfRecs": 0,
+        "personalisationType": "",
+        "experimentTrackerkey": "",
+        "items": []
+      },
+      "advertisementsEnabled": false,
+      "advertisementsAnalytics": {
+        "status": 4,
+        "customerOptIn": false,
+        "numberOfItemsFromPartner": 0,
+        "items": [],
+        "itemsFromPartner": [],
+        "placementBeacons": {
+          "onLoadBeacon": null,
+          "onViewBeacon": null
+        }
+      }
+    },
+    "searchPassMeta": {
+      "isPartial": false,
+      "isSpellcheck": false,
+      "searchPass": [],
+      "alternateSearchTerms": []
+    },
+    "queryId": null,
+    "discoverSearchProductTypes": [],
+    "campaigns": {
+      "imageTiles": [],
+      "promoBanners": [],
+      "sponsoredProducts": []
+    }
+  }

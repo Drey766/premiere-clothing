@@ -1,0 +1,47 @@
+.secondDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.secondDiv__cont {
+    display: grid;
+    width: 85%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    row-gap: 40px;
+}
+
+.secondDiv__divs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 15px;
+    border: 1px solid grey;
+}
+
+.secondDiv__img {
+    width: 1.7em !important;
+    height: 1.7em !important;
+    color: #ff4545 !important;
+}
+
+h2 {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.secondDiv__span {
+    font-size: 0.8rem;
+    color: grey;
+}
+
+@media screen and (max-width: 464px) {
+    .secondDiv__cont {
+        display: flex;
+        flex-direction: column;
+    }
+}
