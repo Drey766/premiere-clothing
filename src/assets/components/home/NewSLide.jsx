@@ -1,5 +1,5 @@
 import React from 'react';
-import { animate, motion } from 'framer-motion';
+import { AnimatePresence, motion } from 'framer-motion';
 import './FirstSlide.css';
 import { Button } from '@mui/material';
 import { Facebook, Instagram, Twitter, YouTube } from '@mui/icons-material';
@@ -30,44 +30,44 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
   const maxEmergeVariants = {
     initial: { opacity: 0, scale: 0.8 },
     animate: { opacity: 1, scale: 1 },
-    
   };
 
   const imageVariants = {
-    initial: {opacity: 0},
-    animate: {opacity: 1},
-    exit: {opacity: 0}
-  }
+    initial: { opacity: 0 },
+    animate: { opacity: 1 },
+    exit: { opacity: 0 },
+  };
 
   return (
-    <div 
-      className={`firstSlide ${classname2}`}
-      
-    >
-      <NavBar triggerElementClassName='.secondDiv' />
-      <motion.img 
-        src={backgroundImage} 
-        alt="backgroundImg" 
-        className='backgroundImg'
-        variants={imageVariants}
-        initial= 'initial'
-        animate= 'animate'
-        exit= 'exit'
-        transition={{ duration: 1, ease: 'easeOut' }}
-         />
+    <div className={`firstSlide ${classname2}`}>
+      <NavBar triggerElementClassName=".secondDiv" />
+      <AnimatePresence>
+        {backgroundImage && (
+          <motion.img
+            src={backgroundImage}
+            alt="backgroundImg"
+            className="backgroundImg"
+            variants={imageVariants}
+            initial="initial"
+            animate="animate"
+            exit="exit"
+            transition={{ duration: 1, ease: 'easeOut' }}
+          />
+        )}
+      </AnimatePresence>
       <div className="firstSlide__cont">
-        <div className='firstSlide__sides'>
+        <div className="firstSlide__sides">
           <div className={`firstSlide__sidesP`}>
-            <motion.div 
+            <motion.div
               className={`firstSlide__sidesLine2 ${classname3}`}
               variants={slideRightVariants}
               initial="initial"
               animate="animate"
               transition={{ duration: 1, ease: 'easeOut' }}
             ></motion.div>
-            <div className='firstSlide__sidesPtext'>
+            <div className="firstSlide__sidesPtext">
               {['2', '0', '2', '3', ' ', 'E', 'D', 'I', 'T', 'I', 'O', 'N'].map((char, index) => (
-                <motion.span 
+                <motion.span
                   key={index}
                   className={`firstSlide__sidesLetter ${classname3}`}
                   variants={slideLeftVariants}
@@ -81,17 +81,17 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
             </div>
           </div>
         </div>
-        <div className='firstSlide__center'>
-          <div className='firstSlide__textDiv'>
-            <div className='firstSlide__centerDiv'>
-              <motion.div 
+        <div className="firstSlide__center">
+          <div className="firstSlide__textDiv">
+            <div className="firstSlide__centerDiv">
+              <motion.div
                 className={`firstSlide__line ${classname3}`}
                 variants={emergeReverseVariants}
                 initial="initial"
                 animate="animate"
                 transition={{ duration: 1 }}
               ></motion.div>
-              <motion.h1 
+              <motion.h1
                 className={`firstSlide__hypebes ${classname3}`}
                 variants={slideLeftVariants}
                 initial="initial"
@@ -102,10 +102,10 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
               </motion.h1>
             </div>
             <p className={`firstSlide__p`}>
-              <span className='firstSlide__p1'>
+              <span className="firstSlide__p1">
                 {firstWord.split("").map((char, index) => (
-                  <motion.span 
-                    key={index} 
+                  <motion.span
+                    key={index}
                     className={`firstSlide__pLetter ${classname3}`}
                     variants={letterVariants}
                     initial="initial"
@@ -116,10 +116,10 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
                   </motion.span>
                 ))}
               </span>
-              <span className='firstSlide__p2'>
+              <span className="firstSlide__p2">
                 {secondWord.split("").map((char, index) => (
-                  <motion.span 
-                    key={index} 
+                  <motion.span
+                    key={index}
                     className={`firstSlide__p2Letters ${classname3}`}
                     variants={letterVariants}
                     initial="initial"
@@ -137,19 +137,21 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
               animate="animate"
               transition={{ duration: 1 }}
             >
-              <Button 
+              <Button
                 className={`firstSlide__button ${classname3}`}
                 component={motion.div}
                 whileHover={{ scale: 1.05, backgroundColor: '#ff4545' }}
               >
-                <Link to='/shop' className='firstSlide__buttonLink'>SHOP NOW</Link>
+                <Link to="/shop" className="firstSlide__buttonLink">
+                  SHOP NOW
+                </Link>
               </Button>
             </motion.div>
           </div>
         </div>
-        <div className='firstSlide__sides'>
+        <div className="firstSlide__sides">
           <div className={`firstSlide__sidesCont`}>
-            <motion.div 
+            <motion.div
               className={`firstSlide__sidesICons`}
               variants={maxEmergeVariants}
               initial="initial"
@@ -162,16 +164,16 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
                 </motion.div>
               ))}
             </motion.div>
-            <motion.div 
+            <motion.div
               className={`firstSlide__sidesLine ${classname3}`}
               variants={emergeReverseVariants}
               initial="initial"
               animate="animate"
               transition={{ duration: 1 }}
             ></motion.div>
-            <div className='firstSlide__sidesSpecial'>
+            <div className="firstSlide__sidesSpecial">
               {'SPECIAL EDITION'.split('').map((char, index) => (
-                <motion.span 
+                <motion.span
                   key={index}
                   className={`firstSlide__sidesSpecialLetters ${classname3}`}
                   variants={slideLeftVariants}
