@@ -1,0 +1,41 @@
+.firstDiv {
+    height: max-content;
+    position: relative;
+    width: 100%;
+    max-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstDiv__carousel {
+    width: 100%;
+}
+
+.firstDiv__nav {
+    height: 50px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    left: 9.8%;
+    bottom: 18%;
+    z-index: 999;
+}
+
+
+.firstDiv__bullet {
+    width: 10px;
+    height: 10px;
+    background: #afafaf;
+    border-radius: 50%;
+    cursor: pointer;
+    box-sizing: content-box;
+    padding: 0;
+}
+
+.active {
+    background: #000;
+}
+

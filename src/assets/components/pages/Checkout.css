@@ -1,0 +1,121 @@
+.checkout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.checkout__items {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+}
+
+
+
+.checkout__header {
+    height: 50px;
+    width: 100%;
+    background: #f5f5f5;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.checkout__headerCont {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.checkout__nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.checkout__ul {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.checkout__link {
+    text-decoration: none;
+}
+
+.checkout__li {
+    position: relative;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(130, 130, 130);
+    font-size: 700;
+    padding: 10px;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+
+.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 0px !important;
+    width: 100% !important;
+    z-index: 99;
+    display: block;
+}
+
+.checkout__li::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 0px;
+    transition: all .5s ease-out;
+}
+
+.checkout__li:hover::after {
+    background: black;
+    width: 100%;
+}
+
+.checkout__li:hover {
+    color: black;
+}
+
+.checkout__li.active {
+    color: black;
+    background: transparent;
+    border-bottom: 3px solid black;
+}
+
+.checkout__liLink {
+    text-decoration: none;
+    color: rgb(130, 130, 130);
+}
+
+.subtotal__button {
+    height: 50px !important;
+    width: 150px !important;
+    font-size: 0.7rem !important;
+    color: white !important;
+    background: #ff4545 !important;
+    text-transform: uppercase !important;
+}
+
+@media screen and (max-width: 464px) {
+    .checkout__ul {
+        width: 80%;
+        flex-direction: column;
+    }
+}
+

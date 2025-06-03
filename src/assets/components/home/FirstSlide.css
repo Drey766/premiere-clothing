@@ -1,0 +1,251 @@
+.firstSlide {
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: all .5s ease-out;
+    position: relative;
+    
+}
+
+.backgroundImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+
+}
+
+
+
+
+.firstSlide__sidesLetter, .firstSlide__sidesSpecialLetters {
+    opacity: 0;
+    transform: translateY(80px);
+    margin-right: 3px;
+    font-size: .7rem;
+}
+
+.firstSlide__hypebes1Letter, .firstSlide__h1Letter, .firstSlide__pLetter, .firstSlide__p2Letters{
+    opacity: 0;
+    transform: translateY(80px);
+}
+
+
+
+
+
+
+.firstSlide__cont {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.firstSlide__sides {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstSlide__sidesCont {
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.firstSlide__sidesP {
+    transform: rotate(90deg);
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.firstSlide__center {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.firstSlide__textDiv {
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.firstSlide__centerDiv {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.firstSlide__sidesPtext {
+    display: flex;
+    align-items: center;
+}
+
+.firstSlide__line {
+    width: 3px;
+    height: 58px;
+    background-color: black;
+    margin-right: 5px;
+    z-index: 3;
+}
+
+
+
+h1 {
+    font-size: .9rem;
+    font-weight: 400;
+    text-align: left;
+}
+
+.firstSlide__p {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 2.8rem;
+    text-align: left;
+    font-weight: 100;
+    
+}
+
+.firstSlide__p1 {
+    display: flex;
+    align-items: center;
+}
+
+.firstSlide__p2 {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+.firstSlide__link {
+    color: white !important;
+    background-color: black !important;
+    font-size: 0.7rem !important;
+}
+
+.firstSlide__sidesICons {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transform: rotate(90deg);
+}
+
+.firstSlide__icons {
+    font-size: 0.9rem !important;
+}
+
+
+
+.firstSlide__sidesLine {
+    height: 40px;
+    width: 1px;
+    background-color: black;
+}
+
+
+
+
+.firstSlide__sidesLine2 {
+    height: 1px;
+    width: 40px;
+    background-color: black;
+}
+
+
+
+.firstSlide__sidesSpecial {
+    font-size: 0.8rem;
+    font-weight: 700;
+    transform: rotate(90deg);
+    display: flex;
+    align-items: center;
+}
+
+.firstSlide__hypebes {
+    animation: slideLeft 1s ease;
+    align-items: center;
+    line-height: 16px;
+    font-weight: 800;
+    font-size: 0.7rem;
+}
+
+.firstSlide__button {
+    width: 150px !important;
+    height: 50px !important;
+    background: black !important;
+    color: white !important;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
+    border-radius: 0 !important;
+    transition: all 0.5s ease;
+    
+}
+
+.firstSlide__button:hover {
+    background: #ff4545 !important;
+}
+
+
+
+.firstSlide__buttonLink {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 464px) {
+    .firstSlide__sides {
+        display: none;
+    }
+
+    .firstSlide {
+        max-width: 100vw;
+        height: 60vh;;
+    }
+
+    .firstSlide__cont {
+        justify-content: flex-end;
+    }
+
+    
+
+    .firstSlide__textDiv {
+        width: 90%;
+        height: max-content;
+    }
+
+    .firstSlide__centerDiv {
+        width: 70%;
+        justify-content: flex-start;
+    }
+
+    .firstSlide__p2Letters, .firstSlide__pLetter  {
+        font-size: 1.5rem;
+    }
+}
