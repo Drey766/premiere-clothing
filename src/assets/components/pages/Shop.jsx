@@ -135,7 +135,11 @@ function Shop() {
         <div className='shopHeader__cont'>
             <span className='shopHeader__title'>Shop</span>
             <div className='shopHeader__links'>
+<<<<<<< HEAD
                 <Link to='/' className='shopHeader__link'>Home</Link>  <KeyboardArrowRight className='shopHeader__arrow' />  <Link  to={`../`} className='shopHeader__link'>Shop</Link>
+=======
+                <Link to='/' className='shopHeader__link'>Home</Link>  <KeyboardArrowRight />  <Link  to={`../`} className='shopHeader__link'>Shop</Link>
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
             </div>
         </div>
         <Carousel responsive={responsive} infinite={true}>
@@ -172,7 +176,11 @@ function Shop() {
         
       </div>
       <div className='shop__title'>
+<<<<<<< HEAD
         <Link className='shop__titleLink' to='/'>Home</Link> <KeyboardArrowRight className='shopHeader__arrow' /><Link className='shop__titleLink' to='../shop'>Shop</Link> <KeyboardArrowRight className='shopHeader__arrow' /> {activeCat}
+=======
+        <Link className='shop__titleLink' to='/'>Home</Link> <KeyboardArrowRight /><Link className='shop__titleLink' to='../shop'>Shop</Link> <KeyboardArrowRight /> {activeCat}
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
       </div>
       <div className='shop__cont' id='triggerElement'>
         {products.map((product) => (

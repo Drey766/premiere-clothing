@@ -15,7 +15,10 @@
 }
 
 .productDetail__navCont {
+<<<<<<< HEAD
     height: 40px;
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
     width: max-content;
     display: flex;
     align-items: center;
@@ -138,6 +141,7 @@
     font-weight: 100;
 }
 
+<<<<<<< HEAD
 .productDetail__arrow {
     font-size: 1rem !important;
     display: flex !important;
@@ -148,6 +152,8 @@
     margin: 0 7px !important;
 }
 
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 .productDetail__addButton {
     width: 100% !important;
     background-color: black !important;

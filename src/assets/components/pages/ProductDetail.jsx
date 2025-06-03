@@ -123,11 +123,19 @@ function ProductDetail() {
           <Link to='/' className='productDetail__navLink'>
             Home
           </Link>{' '}
+<<<<<<< HEAD
           <KeyboardArrowRight className='productDetail__arrow' />{' '}
           <Link className='productDetail__navLink' to='../shop'>
             Shop
           </Link>{' '}
           <KeyboardArrowRight className='productDetail__arrow'/> {productData.title}
+=======
+          <KeyboardArrowRight />{' '}
+          <Link className='productDetail__navLink' to='../shop'>
+            Shop
+          </Link>{' '}
+          <KeyboardArrowRight /> {productData.title}
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
         </div>
       </div>
       <div className='productDetail__cont'>

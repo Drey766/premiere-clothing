@@ -74,18 +74,27 @@
 }
 
 .shopHeader__links {
+<<<<<<< HEAD
     height: 50px;
     width: 15%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: space-around;
+=======
+    width: max-content;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 }
 
 .shopHeader__link {
     font-size: 1.2rem;
     color: white;
     text-decoration: none;
+<<<<<<< HEAD
     height: 100%;
     display: flex;
     align-items: center;
@@ -98,6 +107,8 @@
     align-items: center !important;
     justify-content: center !important;
     height: max-content !important;
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 }
 
 .react-multi-carousel-list   {
@@ -146,7 +157,10 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
+<<<<<<< HEAD
     height: 30px;
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 }
 
 .shopHeader__link2 {

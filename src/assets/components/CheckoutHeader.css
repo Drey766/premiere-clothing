@@ -28,13 +28,20 @@
 }
 
 .checkoutHeader__links {
+<<<<<<< HEAD
     height: 30px;
     width: 21%;
+=======
+    width: max-content;
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
     color: white;
     display: flex;
     align-items: center;
     justify-content: space-between
+<<<<<<< HEAD
     
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 }
 
 .checkoutHeader__link {
@@ -43,6 +50,7 @@
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 .checkoutHeader__arrow {
     font-size: 1.1rem !important;
     display: flex !important;
@@ -52,9 +60,14 @@
     margin: 0 7px !important;
 }
 
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
 @media screen and (max-width: 464px) {
     .checkoutHeader__title {
         font-size: 2.8rem;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01

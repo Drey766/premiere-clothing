@@ -66,7 +66,11 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
               transition={{ duration: 1, ease: 'easeOut' }}
             ></motion.div>
             <div className="firstSlide__sidesPtext">
+<<<<<<< HEAD
               {['2', '0', '2', '5', ' ', 'E', 'D', 'I', 'T', 'I', 'O', 'N'].map((char, index) => (
+=======
+              {['2', '0', '2', '3', ' ', 'E', 'D', 'I', 'T', 'I', 'O', 'N'].map((char, index) => (
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
                 <motion.span
                   key={index}
                   className={`firstSlide__sidesLetter ${classname3}`}
@@ -98,7 +102,11 @@ function FirstSlide({ classname2, classname3, firstWord, secondWord, backgroundI
                 animate="animate"
                 transition={{ duration: 1 }}
               >
+<<<<<<< HEAD
                 ASOS <br /> COLLECTION 2025
+=======
+                ASOS <br /> COLLECTION 2023
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
               </motion.h1>
             </div>
             <p className={`firstSlide__p`}>

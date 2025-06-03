@@ -14,8 +14,13 @@ function Footer() {
                     <p className='footer__p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <div className='footer__info'>
                         <span className='footer__infoSpan'>Add: 2341 Kenyatta Road, Nairobi, Kenya</span>
+<<<<<<< HEAD
                         <span className='footer__infoSpan'>Phone: +254719197676</span>
                         <span className='footer__infoSpan'>Email: andrewkimani766@gmail.com</span>
+=======
+                        <span className='footer__infoSpan'>Phone: +254771910278</span>
+                        <span className='footer__infoSpan'>Email: premiereclothing@gmail.com</span>
+>>>>>>> 9716151989078967d3292c775c0f6ae8fe33ce01
                     </div>
                     <div className='footer__socials'>
                         <Twitter className='misc__icons' />
